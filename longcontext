@@ -1,0 +1,83 @@
+Łukasz Kaiser
+https://scholar.google.com/citations?hl=en&user=JWmiQR0AAAAJ&view_op=list_works&sortby=pubdate
+
+Generating Wikipedia by Summarizing Long Sequences
+https://arxiv.org/abs/1801.10198
+
+Generating wikipedia by summarizing long sequences笔记
+https://blog.csdn.net/Tuka2000/article/details/107127304/
+
+学界 | 谷歌大脑提出通过多文档摘要方法生成维基百科，可处理较长序列 
+https://www.sohu.com/a/222192603_129720
+
+Learning to Remember Rare Events
+https://arxiv.org/abs/1703.03129
+
+阅读笔记：Learning to Remember Rare Events
+https://blog.csdn.net/weixin_43874380/article/details/111211712
+
+2015-2019年摘要模型（Summarization Model）发展综述（二）
+https://zhuanlan.zhihu.com/p/138282654
+
+
+
+Mohammad Bavarian
+https://scholar.google.com/citations?hl=en&user=uMg7CEAAAAAJ&view_op=list_works&sortby=pubdate
+
+Efficient Training of Language Models to Fill in the Middle
+https://arxiv.org/abs/2207.14255
+
+
+Evaluating Large Language Models Trained on Code
+https://arxiv.org/abs/2107.03374
+
+Copilot: 评估在代码上训练的大型语言模型
+https://zhuanlan.zhihu.com/p/571373422
+https://www.hub.com/openai/human-eval
+
+【AI4Code】CodeX：《Evaluating Large Language Models Trained on Code》（OpenAI）
+https://blog.csdn.net/yanguang1470/article/details/125862215
+
+Heewoo Jun
+https://www.semanticscholar.org/author/Heewoo-Jun/35450887
+
+https://deepai.org/publication/scaling-laws-for-autoregressive-generative-modeling
+
+Deep Learning Scaling is Predictable, Empirically
+https://www.semanticscholar.org/paper/Deep-Learning-Scaling-is-Predictable%2C-Empirically-Hestness-Narang/a1c922be467d1c0c64b963e65dae41778b81b2a0
+
+Scaling Laws for Autoregressive Generative Modeling
+https://arxiv.org/abs/2010.14701
+
+生成模型中的分布增强
+https://zhuanlan.zhihu.com/p/553430457
+
+稀疏Transformer（Sparse Transformer）
+https://zhuanlan.zhihu.com/p/504609631
+
+Generating Long Sequences with Sparse Transformers
+https://arxiv.org/abs/1904.10509
+
+Open AI新研究补齐Transformer短板，将可预测序列长度提高30倍
+https://baijiahao.baidu.com/s?id=1631672936541592253&wfr=spider&for=pc
+
+Coherence boosting: When your pretrained language model is not paying enough attention
+https://arxiv.org/abs/2110.08294
+
+
+Memorizing Transformers
+https://arxiv.org/abs/2203.08913
+
+谷歌提出 RNN 版 Transformer，或为长文本建模的当前最优解
+https://blog.csdn.net/xixiaoyaoww/article/details/123911465
+
+Google团队发布，一文概览Transformer模型的17大高效变种
+https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247529437&idx=1&sn=cba6ebc4025c2c92244f35c4a9577609&chksm=e9e17a56de96f340bb5e2b392b6d7bd1eb70fe9000ea7fab4472b538b67ccb01700f50a06a97&scene=27
+
+SPARSE TRANSFORMER浅析
+https://zhuanlan.zhihu.com/p/259591644
+
+
+A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies
+https://arxiv.org/abs/2302.06218
+
