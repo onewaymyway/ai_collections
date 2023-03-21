@@ -1,0 +1,177 @@
+【论文简介】KQA Pro：带有可解释性程序和准确SPARQL的大规模知识库问答数据集
+https://zhuanlan.zhihu.com/p/352808683
+
+[论文解读]KQA Pro 一个120K有SPARQL标注的KBQA数据集
+https://zhuanlan.zhihu.com/p/348851375
+
+https://github.com/BDBC-KG-NLP/QA-Survey-CN
+
+https://github.com/shijx12/KQAPro_Baselines
+
+华为史佳欣：基于知识图谱的复杂问题推理问答
+http://www.uml.org.cn/ai/202205311.asp
+
+针对复杂问题的知识图谱问答最新进展
+https://zhuanlan.zhihu.com/p/134090164
+
+复杂知识图谱问答综述方法、挑战和解决办法
+https://blog.csdn.net/u011983997/article/details/122727274
+
+复杂问题的知识问答技术介绍
+https://zhuanlan.zhihu.com/p/184966381
+
+论文导读 | 基于查询图生成的复杂知识图谱问答
+https://www.modb.pro/db/403452
+
+CIKM 2020 | 知识库问答复杂问题的分层查询图生成方法
+https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/109567445
+
+ACL2020 KBQA 基于查询图生成回答多跳复杂问题
+https://blog.csdn.net/devcloud/article/details/108772855
+
+TED对话策略：Dialogue Transformers
+https://zhuanlan.zhihu.com/p/483823239
+
+DIET: Lightweight Language Understanding for Dialogue System
+https://blog.csdn.net/weixin_42486623/article/details/122198536
+
+kopl
+https://kopl.xlore.cn/doc/0_intro.html
+
+KoPL：面向知识的推理问答编程语言
+https://xw.qq.com/cmsid/20211110A06TZR00
+
+
+ProgramTransfer：基于知识库的复杂问答
+https://zhuanlan.zhihu.com/p/499048106
+
+TransferNet：一个用于关系图多跳问答的透明有效框架
+https://zhuanlan.zhihu.com/p/498409048
+
+QQ浏览器智能问答技术探索实践
+https://zhuanlan.zhihu.com/p/413822447
+
+美团知识图谱问答技术实践与探索
+https://zhuanlan.zhihu.com/p/429816769
+
+斯坦福任泓宇：知识图谱多步推理及SMORE框架介绍
+https://zhuanlan.zhihu.com/p/546169083
+
+CCKS 2019 | 基于知识图谱的寿险问答系统
+https://zhuanlan.zhihu.com/p/89983691
+
+对话动作集定义CUED Standard Dialogue Acts
+https://blog.csdn.net/iin729/article/details/109221672
+
+项目实操：KBQA常规实现流程与医疗知识图谱问答源码解读
+https://blog.csdn.net/asd8705/article/details/125059552
+
+EMNLP 2019 结合单词级别意图识别的stack-propagation框架进行口语理解
+https://zhuanlan.zhihu.com/p/85792864
+
+【论文解读系列】NER方向：SoftLexicon(ACL 2020)
+https://blog.csdn.net/ljp1919/article/details/126742431
+
+杨韬：微信搜一搜中的智能问答技术
+https://zhuanlan.zhihu.com/p/530648272
+
+2021-ACL论文：问答检索方向论文整理
+https://zhuanlan.zhihu.com/p/388148753
+
+智能客服FAQ问答任务的技术选型探讨
+https://zhuanlan.zhihu.com/p/50799128
+
+智能问答系统：问句预处理、检索和深度语义匹配技术
+https://zhuanlan.zhihu.com/p/70203821
+
+MGIMN：用于Few-shot文本分类的多粒度交互式匹配网络
+https://blog.csdn.net/be_humble/article/details/127652630
+
+https://github.com/ymcui/expmrc
+
+知识库问题生成（KBQG）技术介绍
+https://zhuanlan.zhihu.com/p/274735752?utm_source=wechat_session
+
+A Review on Question Generation from Natural Language Text阅读笔记
+https://blog.csdn.net/Cc2018qaq/article/details/121973874
+
+BERTScore: Evaluating Text Generation with BERT
+https://arxiv.org/abs/1904.09675v3
+
+问题生成领域的评估
+https://zhuanlan.zhihu.com/p/569381350
+
+面向文本生成任务的评估指标
+https://zhuanlan.zhihu.com/p/380929670
+
+文本生成13：万字长文梳理文本生成评价指标
+https://zhuanlan.zhihu.com/p/144182853
+
+Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons
+https://arxiv.org/abs/2203.06063
+
+Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text
+https://arxiv.org/abs/2202.06935
+
+Analyzing and Evaluating Faithfulness in Dialogue Summarization
+https://arxiv.org/abs/2210.11777
+
+基于深度神经网络的自动问题生成
+https://zhuanlan.zhihu.com/p/393610558
+
+Question Generation
+https://paperswithcode.com/task/question-generation
+
+A Survey of Evaluation Metrics Used for NLG Systems
+https://arxiv.org/abs/2008.12009
+
+中文机器阅读理解（片段抽取）数据集整理
+https://zhuanlan.zhihu.com/p/395788175
+
+Question-Generation-Paper-List
+https://github.com/teacherpeterpan/Question-Generation-Paper-List
+
+Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document
+https://arxiv.org/abs/2109.07410
+
+临床问答中领域适配的多样化问题生成
+https://zhuanlan.zhihu.com/p/342603647
+
+Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus
+https://paperswithcode.com/paper/asking-questions-the-human-way-scalable
+
+以文档为额外知识的生成式对话
+https://www.jiqizhixin.com/articles/2020-09-23-2
+
+https://github.com/sherlcok314159/ChineseMRC-Data
+
+Fusion-in-decoder 生成式答案踩坑
+https://zhuanlan.zhihu.com/p/603091623
+
+Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
+https://arxiv.org/abs/2007.01282
+https://github.com/facebookresearch/FiD
+
+Fusion-in-Decoder (FiD) 简读
+https://zhuanlan.zhihu.com/p/564043932
+
+基于检索的自然语言处理模型研究梳理
+https://blog.csdn.net/Kaiyuan_sjtu/article/details/123059539
+
+ACL-2022|Internet-Augmented Dialogue Generation
+https://zhuanlan.zhihu.com/p/591603674
+
+ReAct: Synergizing Reasoning and Acting in Language Models
+https://arxiv.org/abs/2210.03629
+
+信息搜索QA中的挑战：无法回答的问题和段落检索
+https://zhuanlan.zhihu.com/p/580057408
+
+QA-based事实一致性检测与改进综述
+https://zhuanlan.zhihu.com/p/285770986
+
+ChatGPT作为知识库问答系统的问答能力评测
+https://zhuanlan.zhihu.com/p/613649876
+
+Ask what's missing and what's useful: Improving Clarification Question Generation using Global Knowledge
+https://arxiv.org/abs/2104.06828
