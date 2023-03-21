@@ -1,0 +1,337 @@
+NLP实验之新词挖掘+预训练模型继续预训练，打造适应任务的PTM
+https://zhuanlan.zhihu.com/p/414384344
+https://github.com/zhoujx4/NLP-Series-NewWordsMining-PTMPretraining
+
+NLP系列之论文研读：Don't stop pretraining，继续预训练！
+https://zhuanlan.zhihu.com/p/358705580
+
+Whole Word Mask Language Model
+https://github.com/huggingface/transformers/tree/main/examples/research_projects/mlm_wwm
+
+pytorch中文语言模型bert预训练代码
+https://zhuanlan.zhihu.com/p/161301389
+https://github.com/zhusleep/pytorch_chinese_lm_pretrain
+
+预训练任务总结
+https://zhuanlan.zhihu.com/p/360695362
+
+论文笔记 - NLP 预训练模型综述
+https://zhuanlan.zhihu.com/p/139015428
+
+建模推理能力的预训练任务POET
+https://www.modb.pro/db/385563
+
+ELECTRA: 超越BERT, 19年最佳NLP预训练模型
+https://zhuanlan.zhihu.com/p/89763176
+
+Deberta不再领先，微软提出新SOTA模型COCO-LM
+https://zhuanlan.zhihu.com/p/527065874
+https://arxiv.org/abs/2102.08473
+
+Cross-Thought：微软为文本表示打造的全新预训练任务
+https://zhuanlan.zhihu.com/p/264127720
+
+Cooperative Self-training of Machine Reading Comprehension
+https://arxiv.org/abs/2103.07449
+
+【ACL20 论文笔记】Self-Training MRC (STM)：基于软证据提取的机器阅读理解自训练方法
+https://zhuanlan.zhihu.com/p/364913184
+
+后Prompt时代 | NLP统一范式：预训练+大规模多任务学习
+https://zhuanlan.zhihu.com/p/485506149
+
+多任务学习：哪些任务适合堆在一起训练？
+https://zhuanlan.zhihu.com/p/556376843
+
+中文预训练模型调研
+https://zhuanlan.zhihu.com/p/576618010
+
+如何优雅的完成PaddlePaddle 到 Pytorch 的模型转换
+https://cdn.modb.pro/db/488011
+
+使用pytorch微调Ernie3实验
+https://zhuanlan.zhihu.com/p/557477053
+https://huggingface.co/docs/transformers/model_doc/ernie
+
+《基于去噪的seq2seq预训练用于文本生成》阅读笔记
+https://zhuanlan.zhihu.com/p/115405275
+
+ERNIE-GEN : 原来你是这样的生成预训练框架！
+https://zhuanlan.zhihu.com/p/141492554
+
+生成式预训练模型：UniLM、BART、T5、GPT
+https://zhuanlan.zhihu.com/p/406751681
+
+预训练语言模型：BERT 家族的若干变体
+https://zhuanlan.zhihu.com/p/565474939
+
+BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+https://zhuanlan.zhihu.com/p/542818836
+https://arxiv.org/abs/1910.13461
+
+ChatGPT/InstructGPT详解
+https://zhuanlan.zhihu.com/p/590311003
+
+InstructGPT与Instruction Tuning: 管中窥豹ChatGPT
+https://zhuanlan.zhihu.com/p/589734619
+
+OpenAI是如何“魔鬼调教” GPT的？——InstructGPT论文解读
+https://zhuanlan.zhihu.com/p/595891945
+
+ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习
+https://zhuanlan.zhihu.com/p/589747432
+
+Instruction Tuning｜谷歌Quoc V.Le团队提出又一精调范式
+https://zhuanlan.zhihu.com/p/408166011
+
+打开模型Zero-Shot新范式：Instruction Tuning
+https://zhuanlan.zhihu.com/p/558286175
+
+IJCAI2022 | DictBert：采用对比学习的字典描述知识增强的预训练语言模型
+https://zhuanlan.zhihu.com/p/550019008
+
+WebGPT: Browser-assisted question-answering with human feedback 阅读笔记
+https://zhuanlan.zhihu.com/p/471337154
+
+
+
+PERT：一种基于乱序语言模型的预训练模型
+https://zhuanlan.zhihu.com/p/509647368
+
+哈工大讯飞联合实验室发布语言学知识增强的预训练模型LERT
+https://mp.weixin.qq.com/s?__biz=MzU2NDQ3MTQ0MA==&mid=2247488472&idx=1&sn=f22ccb81bc97626b548be0bf208206ac&chksm=fc4b2027cb3ca931075e9730753a2f207a7091c24f6f06e72c6e63ac1c4fb41b7faf249eaf12&token=425975098&lang=zh_CN#rd
+
+那个屠榜的T5模型，现在可以在中文上玩玩了
+https://zhuanlan.zhihu.com/p/343739894
+
+T5 PEGASUS：开源一个中文生成式预训练模型
+https://zhuanlan.zhihu.com/p/359509608
+
+CPT：兼顾理解和生成的中文预训练模型
+https://zhuanlan.zhihu.com/p/421402341
+
+UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning
+https://blog.csdn.net/qq_45331246/article/details/127146266
+
+万字长文谈多模态预训练（UNITER、ViLBERT、CLIP、ALBEF、BLIP、METER）
+https://zhuanlan.zhihu.com/p/539906825
+
+从顶会论文看多模态预训练研究进展
+https://zhuanlan.zhihu.com/p/448070843
+
+PPTOD：任务型对话多任务预训练
+https://zhuanlan.zhihu.com/p/519290574
+
+AAAI 2023 | 基于T5的两阶段的多任务Text-to-SQL预训练模型MIGA
+https://zhuanlan.zhihu.com/p/599812366
+
+AAAI 2021 | 多任务学习：针对对话数据的辅助预训练任务
+https://zhuanlan.zhihu.com/p/413504876
+
+arXiv | ExT5：利用大规模有监督多任务学习来改进NLP模型的自监督预训练策略
+https://zhuanlan.zhihu.com/p/452564971
+
+AI论文翻译－－《为＂答案选择＂任务而做的基于句子级别目标的预训练transformer模型》
+https://zhuanlan.zhihu.com/p/584154913
+
+WWW2022 | OntoPrompt & KnowPrompt：知识提示的预训练微调
+https://zhuanlan.zhihu.com/p/467422717
+
+引入外部信息的预训练
+https://zhuanlan.zhihu.com/p/476425064
+
+StructBERT FAQ问答-中文-通用领域-base
+https://www.modelscope.cn/models/damo/nlp_structbert_faq-question-answering_chinese-base/summary
+
+万字深度好文！视觉-语言（VL）智能：任务、表征学习和大型模型
+https://zhuanlan.zhihu.com/p/491911982
+
+谷歌提出Flan预训练方法，一个模型解决可所有NLP任务，并发布Flan-T5模型
+https://zhuanlan.zhihu.com/p/586660846
+
+有监督预训练！文本生成又一力作
+https://zhuanlan.zhihu.com/p/535861718
+
+扩散-LM改善可控文本的生成
+https://zhuanlan.zhihu.com/p/532644454
+
+【arXiv 2212】TextBox 2.0: 基于预训练语言模型的文本生成库（TextBox）
+https://zhuanlan.zhihu.com/p/595592122
+https://github.com/RUCAIBox/TextBox#2.0
+
+中文T5模型Zero-Shot能力新标杆！Randeng-T5-Multi-Task模型训练心得分享
+https://zhuanlan.zhihu.com/p/590248255
+
+Flan-T5: One Model for ALL Tasks
+https://zhuanlan.zhihu.com/p/580468546
+
+Scaling Instruction-Finetuned Language Models翻译
+https://blog.csdn.net/qq_28385535/article/details/128285619
+
+An 800GB Dataset of Diverse Text for Language Modeling
+https://pile.eleuther.ai/
+
+RLHF系列-Constitutional AI[year 2023 OpenAI]
+https://zhuanlan.zhihu.com/p/604926128
+
+OpenAI新老员工对决！「叛徒」团队发布Claude模型：ChatGPT的RLHF过时啦！
+https://zhuanlan.zhihu.com/p/601689616
+
+EleutherAI 推出 200亿参数的类 GPT 模型：不像 GPT-3，它免费开放
+https://zhuanlan.zhihu.com/p/487442512
+
+让ChatGPT长“手”！Meta爆火新论文，让语言模型学会自主用工具
+https://zhuanlan.zhihu.com/p/605917754
+
+预训练系列-Toolformer [year 2023，Meta AI Research]
+https://zhuanlan.zhihu.com/p/606004224
+
+Action Transformer(ACT-1)，通用AI助手
+https://zhuanlan.zhihu.com/p/565025337
+
+大语言模型集成工具 LangChain
+https://blog.csdn.net/kebijuelun/article/details/128713570
+
+MemPrompt: Memory-assisted Prompt Editing with User Feedback
+https://blog.csdn.net/kebijuelun/article/details/128498034
+
+【论文笔记】CTRL: A conditional Transformer Language Model For Controllable Generation
+https://blog.csdn.net/m0_47779101/article/details/127792858
+
+Atlas: 用检索增强的语言模型进行few-shot学习
+https://zhuanlan.zhihu.com/p/595258642
+
+《REALM：检索增强的预训练语言模型》阅读笔记
+https://zhuanlan.zhihu.com/p/360635601
+
+无需人工标注，自生成指令框架，或将打破AI的高成本
+https://www.pmkg.net/thread-478-1-1.html
+https://arxiv.org/abs/2212.10560
+
+你说我画，你画我说：全球最大中文跨模态生成模型文心ERNIE-ViLG
+https://baijiahao.baidu.com/s?id=1721189775801970855&wfr=spider&for=pc
+
+思维链（Chain-of-thoughts）作为提示
+https://zhuanlan.zhihu.com/p/493533589
+
+有了Chain of Thought Prompting，大模型能做逻辑推理吗？
+https://zhuanlan.zhihu.com/p/589087074
+
+如何优化大模型的In-Context Learning效果？
+https://zhuanlan.zhihu.com/p/597036814
+
+PLM 是做题家吗？一文速览预训练语言模型数学推理能力新进展
+https://zhuanlan.zhihu.com/p/583596759
+
+NeurIPS 2022 | 全新的多模态科学问答数据集，打开「黑箱」模型的钥匙：思维链！
+https://zhuanlan.zhihu.com/p/579672838
+
+
+有监督预训练！文本生成又一力作！
+https://zhuanlan.zhihu.com/p/535861718
+
+微软+上财提出GENIUS: 一个能根据草稿进行文本生成的“小天才”模型，也是一个即插即用的数据增强工具，代码开源
+https://zhuanlan.zhihu.com/p/587180622
+
+ICML 2020 | PEGASUS(天马)：地表最强文本摘要生成模型
+https://zhuanlan.zhihu.com/p/165071888
+
+PLM 是做题家吗？一文速览预训练语言模型数学推理能力新进展
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247553837&idx=4&sn=0fa575aa1948c123bacc1627a4433fb7&chksm=ebb72bf9dcc0a2efb731fd2a97a99225f11be09b70e1efa2523013944c8880b31910617a69da&scene=27
+
+Cross-Thought：微软为文本表示打造的全新预训练任务
+https://zhuanlan.zhihu.com/p/264127720
+
+《Cross-Thought句子表示预训练》阅读笔记
+https://zhuanlan.zhihu.com/p/292297578
+https://arxiv.org/abs/2010.03652
+
+鱼与熊掌兼得：融合检索和生成的SimBERT模型
+https://kexue.fm/archives/7427
+
+SimBERTv2来了！融合检索和生成的RoFormer-Sim模型
+https://spaces.ac.cn/archives/8454
+
+用开源的人工标注数据来增强RoFormer-Sim
+https://spaces.ac.cn/archives/8541
+
+中文T5模型Zero-Shot能力新标杆！Randeng-T5-Multi-Task模型训练心得分享
+https://zhuanlan.zhihu.com/p/590248255
+https://github.com/IDEA-CCNL/Fengshenbang-LM
+
+
+小样本文本摘要新进展：新SOTA模型UniSumm与新基准数据集SummZoo
+https://zhuanlan.zhihu.com/p/587027742
+
+KPT: Keyword-guided Pre-training for Grounded Dialog Generation
+https://arxiv.org/abs/2212.01739
+
+Question Generation for Reading Comprehension Assessment by Modeling How and What to Ask
+https://arxiv.org/abs/2204.02908
+
+快速构建并训练自己的GPT2
+https://zhuanlan.zhihu.com/p/291915401
+
+Alpaca: A Strong Open-Source Instruction-Following Model
+https://crfm.stanford.edu/2023/03/13/alpaca.html
+
+https://github.com/yizhongw/self-instruct
+
+怎么风平浪静的？多模态+Toolformer，这波还不原地起飞？
+https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247485175&idx=1&sn=4c45bf3b55b121e94ed05a3bed6a06c6&chksm=f9aeb364ced93a721fc71068d8893c5ba80a6086a0d3cd17fdefb32cf665775b7f8683f2b24b&scene=21#wechat_redirect
+
+ChatGPT下一个关键方向：Toolfomer+多模态
+https://zhuanlan.zhihu.com/p/610984116
+
+Toolformer: Language Models Can Teach Themselves to Use Tools
+https://arxiv.org/abs/2302.04761
+
+[论文]KOSMOS-1——Language is not all you Need: Aligning Perception with Language Models
+https://zhuanlan.zhihu.com/p/610266736
+
+https://github.com/EgoAlpha/prompt-in-context-learning/blob/main/chatgptprompt_zh.md
+
+谷歌：级联语言模型是通用推理系统的未来
+https://blog.csdn.net/xixiaoyaoww/article/details/126476437
+
+谷歌提出 RNN 版 Transformer，或为长文本建模的当前最优解
+https://blog.csdn.net/xixiaoyaoww/article/details/123911465
+
+
+Memorizing Transformers论文总结
+https://www.xiaohongshu.com/explore/63306d5c00000000170195dc
+
+ART: Automatic multi-step reasoning and tool-use for large language models
+https://arxiv.org/abs/2303.09014
+
+Prompting Is Programming: A Query Language For Large Language Models
+https://arxiv.org/abs/2212.06094
+
+Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+https://arxiv.org/abs/2205.10625
+
+遇见Jeff Dean！Google首届MoE Workshop交流随笔
+https://zhuanlan.zhihu.com/p/576133131
+
+Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models
+https://arxiv.org/abs/2210.13432
+
+Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback
+https://arxiv.org/abs/2302.12813
+
+NeuroQL: A Neuro-Symbolic Language and Dataset for Inter-Subjective Reasoning
+https://arxiv.org/abs/2303.07146
+
+增强语言模型（ALM）之综述篇
+https://zhuanlan.zhihu.com/p/611492200
+
+通向AGI之路：大型语言模型（LLM）技术精要
+https://www.163.com/dy/article/HS5GQ8H60511CQLG.html
+
+From zero to ChatGPT：从零开始谈ChatGPT
+https://blog.csdn.net/Kaiyuan_sjtu/article/details/128722355
+
+
+论文阅读：Language Models are Few-Shot Learners（巨无霸OpenAI GPT3 2020）
+https://zhuanlan.zhihu.com/p/527825405
+
