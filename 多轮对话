@@ -1,0 +1,166 @@
+微软和清华开源ConvLab: 多领域端到端对话系统平台
+https://zhuanlan.zhihu.com/p/63338937
+
+MultiWOZ SOTA文献精读（一）：暴力Transformer解法
+https://zhuanlan.zhihu.com/p/522278566
+
+任务型对话系统数据集详解大全（MultiWOZ /DSTC）
+https://zhuanlan.zhihu.com/p/200747822
+
+
+SGD 论文简述
+https://zhuanlan.zhihu.com/p/348440189
+
+RiSAWOZ中文任务型对话数据集
+https://blog.csdn.net/weixin_44385551/article/details/109687283?spm=1001.2014.3001.5501
+
+CrossWOZ：一个大规模跨领域中文任务导向对话数据集
+https://zhuanlan.zhihu.com/p/112301991
+
+RiSAWOZ中文任务型对话数据集
+https://blog.csdn.net/weixin_44385551/article/details/109687283
+
+清华 ACL 2020 长文 | KdConv：多领域知识驱动的中文多轮对话数据集
+https://zhuanlan.zhihu.com/p/336849927
+
+文本生成任务[1]-AUGNLG
+https://zhuanlan.zhihu.com/p/402349187
+
+BlenderBot3: 基于知识的对话机器人
+https://zhuanlan.zhihu.com/p/579294704
+
+对话动作集定义CUED Standard Dialogue Acts
+https://blog.csdn.net/iin729/article/details/109221672
+
+解读微软最新的智能对话技术：用数据流合成实现任务型对话
+https://zhuanlan.zhihu.com/p/245081650
+
+一文看懂！百度对话系统PLATO家族
+https://blog.csdn.net/Kaiyuan_sjtu/article/details/121219914
+
+对话模型 PLATO 系列论文笔记
+https://zhuanlan.zhihu.com/p/570862895
+
+王凡：从经验驱动到数据驱动到环境驱动的百度对话系统PLATO模型
+https://zhuanlan.zhihu.com/p/544354137
+
+百度 PLATO 在大模型推动的人机交互对话中的实践
+https://www.6aiq.com/article/1674623792593
+
+迁移学习+NLP：对话状态跟踪的持续Prompt Tuning （ACL 2022）
+https://zhuanlan.zhihu.com/p/524378791
+
+多轮对话中的语义补全改写
+https://zhuanlan.zhihu.com/p/547646349
+
+一个中心+三大原则 -- 阿里这样做智能对话开发平台
+https://zhuanlan.zhihu.com/p/53834315
+
+达摩院Conversational AI研究进展及应用
+https://zhuanlan.zhihu.com/p/370133631
+
+万字长文综述系列3：讲透对话管理模型研究最新进展
+https://zhuanlan.zhihu.com/p/100684426
+
+对话系统答非所问？快试试这篇ACL'21的连贯性评估大法
+https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516275&idx=2&sn=1ca2062aadcb21050062c85c04587ff3&scene=21#wechat_redirect
+
+千言数据集：知识对话评测
+https://aistudio.baidu.com/aistudio/competition/detail/432/0/introduction
+
+如何构建高质量的 QA 问答知识库
+https://zhuanlan.zhihu.com/p/399988993
+
+多轮对话之对话管理(Dialog Management)
+https://zhuanlan.zhihu.com/p/32716205
+
+近期任务型对话系统综述以及百度UNIT，理论和实践，我全都要！(手动鳌拜)
+https://zhuanlan.zhihu.com/p/397360511
+
+从百度智能对话平台7.0，看对话式AI如何驱动企业智能升级
+https://baijiahao.baidu.com/s?id=1733165123009614793&wfr=spider&for=pc
+https://ai.baidu.com/unit/home#/solution
+
+NLP领域中文对话系统数据集总结（有下载地址）
+https://zhuanlan.zhihu.com/p/450326881
+
+任务导向型对话系统——对话管理模型研究最新进展
+https://zhuanlan.zhihu.com/p/100843827
+
+DSTC10开放领域对话评估比赛冠军方法总结
+https://zhuanlan.zhihu.com/p/457138715
+
+现在基于深度学习的对话系统常用的评价指标有哪些，分别有什么优缺点和适用范围
+https://www.zhihu.com/question/264731577
+
+深度学习对话系统理论篇--数据集和评价指标介绍
+https://zhuanlan.zhihu.com/p/33088748
+
+最新对话系统综述
+https://mp.weixin.qq.com/s/ICzDwMbC5FVkFzVOuL9pIA
+
+开源方案复现ChatGPT流程！1.62GB显存即可体验，单机训练提速7.73倍
+https://new.qq.com/rain/a/20230215A03B8300
+
+复现ChatGPT的难点与平替
+https://zhuanlan.zhihu.com/p/607847588
+
+ChatGPT出来后，我们是否真的面临范式转变?
+https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A
+
+2022年对话技术梳理：科研进展、产品创新
+https://zhuanlan.zhihu.com/p/581468462
+
+小冰CEO李笛：小冰链不是中国版ChatGPT
+https://zhuanlan.zhihu.com/p/608231813
+
+ChatGPT发疯怎么办？小冰李笛：两个关键，我可破之
+https://zhuanlan.zhihu.com/p/609782895
+
+基于 GPT2 搭建对话生成模型（原理+代码）
+https://zhuanlan.zhihu.com/p/608340951
+
+ACL 2021 | 如何利用DialoGPT辅助对话摘要任务？
+https://blog.csdn.net/qq_27590277/article/details/120631889
+
+EVA 2.0：大规模开放域中文对话系统预训练模型
+https://zhuanlan.zhihu.com/p/484735717
+
+基于文档的对话技术研究
+https://zhuanlan.zhihu.com/p/470055259
+
+分享6个权威对话数据集
+https://zhuanlan.zhihu.com/p/404988690
+
+【阅读笔记】《Dialog Inpainting: Turning Documents into Dialogs》
+https://zhuanlan.zhihu.com/p/542435555
+
+Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots
+https://arxiv.org/abs/2210.11060
+
+一次中稿10篇EMNLP22，达摩院对话智能团队在研究什么
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247553837&idx=3&sn=0635140ab44ec6731eb9f0fa17960a23&chksm=ebb72bf9dcc0a2efd48582e67797b9a0cbd953f0dd1612cf75fcc621b812348d9614c952dcef&scene=27
+
+UniGDD：面向目标的对话统一生成框架
+https://zhuanlan.zhihu.com/p/525105760
+
+如何向大模型注入知识？达摩院通义对话模型SPACE系列探索
+https://m.thepaper.cn/baijiahao_20247317
+
+Structured Summarization: Unified Text Segmentation and Segment Labeling as a Generation Task
+https://arxiv.org/abs/2209.13759
+
+A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension
+https://arxiv.org/abs/1905.12848
+
+论文阅读：Learn to Resolve Conversational Dependency
+https://blog.csdn.net/weixin_41753316/article/details/120864034
+https://arxiv.org/abs/2106.11575
+
+
+句子重写任务近年有哪些值得关注的工作？看这一篇就够了！
+https://www.sohu.com/a/487943632_121119001
+https://github.com/aagohary/canard
+https://github.com/SivilTaram/FollowUp
+https://github.com/terryqj0107/GECOR
+
