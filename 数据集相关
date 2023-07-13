@@ -1,0 +1,98 @@
+CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking (NAACL22)
+https://zhuanlan.zhihu.com/p/534502180
+
+(2020)指代消解ontoNotes_Release_5.0处理详细流程
+https://blog.csdn.net/weixin_44912159/article/details/105692082
+
+常识库与常识推理
+https://zhuanlan.zhihu.com/p/103038985
+
+NLP领域中文对话系统数据集总结（有下载地址）
+https://zhuanlan.zhihu.com/p/450326881
+
+https://ai.tencent.com/ailab/nlp/dialogue/#datasets
+
+阅读理解数据集综述
+https://zhuanlan.zhihu.com/p/111533021
+
+斯坦福齐鹏、陈丹琦解读两大新QA数据集：超越模式匹配的机器阅读理解
+https://zhuanlan.zhihu.com/p/58618145
+
+MACHINE TRANSLATION (WMT18)
+https://statmt.org/wmt18/translation-task.html#download
+
+nlp_chinese_corpus
+https://github.com/brightmart/nlp_chinese_corpus
+
+https://index.quantumstat.com/
+
+收藏 | 自然语言处理（NLP）数据集汇总（附下载链接
+https://zhuanlan.zhihu.com/p/608642932
+
+文本摘要数据集的整理、总结及介绍（持续更新ing...）
+https://blog.csdn.net/PolarisRisingWar/article/details/122987556
+
+
+https://chinesenlp.xyz/#/zh/docs/co-reference_resolution
+
+https://cemantix.org/conll/2012/data.html
+
+
+ACL'22 | e-CARE: 可解释的因果推理数据集
+https://zhuanlan.zhihu.com/p/515964894
+
+https://github.com/OpenBioLink/ThoughtSource
+
+NLP：MRC常用数据集
+https://blog.csdn.net/weixin_43975374/article/details/107528522
+
+BookSum: A Collection of Datasets for Long-form Narrative Summarization
+https://arxiv.org/abs/2105.08209
+
+https://github.com/deepmind/narrativeqa
+
+https://allenai.org/data
+
+https://github.com/lauhaide/WikiCatSum
+
+https://github.com/mingdachen/SummScreen
+
+《Natural Questions: a Benchmark for Question Answering Research》TACL2019论文阅读
+https://blog.csdn.net/qq_36287702/article/details/110953253
+
+让ChatGPT生成训练ChatGPT的训练数据
+https://zhuanlan.zhihu.com/p/618334308
+
+
+收藏丨30个大语言模型训练相关的数据集分享
+https://zhuanlan.zhihu.com/p/612243919
+
+https://github.com/LianjiaTech/BELLE
+
+Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences
+https://arxiv.org/abs/2012.15738
+
+
+Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios
+https://arxiv.org/abs/2209.07760
+
+https://github.com/LAION-AI/Open-Instruction-Generalist
+
+
+https://github.com/PhoebusSi/Alpaca-CoT
+
+
+https://github.com/baidu/DuReader
+
+LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction
+https://arxiv.org/abs/2304.08460
+https://github.com/akoksal/longform
+
+https://hub.baai.ac.cn/view/25750
+
+https://huggingface.co/datasets/BAAI/COIG/tree/main
+
+ThoughtSource: A central hub for large language model reasoning data
+https://arxiv.org/abs/2301.11596
+https://github.com/openbiolink/thoughtsource
+
