@@ -1,0 +1,226 @@
+搭配对比学习，万能的 prompt 还能做可控文本生成
+https://zhuanlan.zhihu.com/p/497784323
+
+基于预训练语言模型的可控文本生成研究与应用
+https://zhuanlan.zhihu.com/p/588273776
+
+香侬读 | 用文本指导文本：基于文本的自监督可控文本生成模型
+https://zhuanlan.zhihu.com/p/231124127
+
+文本生成系列之文本编辑
+https://zhuanlan.zhihu.com/p/458080243
+
+陈丹琦提出：带有语言约束的可控文本生成
+https://zhuanlan.zhihu.com/p/601743431
+
+AACL2022 | “讲好中国故事” ! 一种基于数据增强的中文故事生成框架（竟然有源码）
+https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247487092&idx=1&sn=704342eeefe350f660d7b4f57166246f&chksm=fac399a8cdb410be92cbef97a44a2ebc9a5fff36b763c183dbb20548c15c8093e26d18b0a32e&scene=21#wechat_redirect
+
+一文掌握多模态领域的可控文本生成
+https://zhuanlan.zhihu.com/p/586914091
+
+可控文本生成：Composition Sampling
+https://zhuanlan.zhihu.com/p/600992112
+
+多样性文本生成任务的研究进展
+https://zhuanlan.zhihu.com/p/366621933
+
+Meta-review还要亲手写吗？篇章级可控文本生成来帮忙
+https://zhuanlan.zhihu.com/p/520462133
+
+追一技术分享 | NLG技术：文本生成技术多样化应用的探索之路
+https://zhuanlan.zhihu.com/p/375142707
+
+文本自动摘要任务的“不完全”心得总结
+https://zhuanlan.zhihu.com/p/83596443
+
+Long document summarization: 一文速览长文本摘要进展
+https://zhuanlan.zhihu.com/p/591596357
+
+赛尔笔记 | 事实感知的生成式文本摘要
+https://zhuanlan.zhihu.com/p/139517652
+
+2020受限文本生成小结
+https://zhuanlan.zhihu.com/p/298307372
+
+《评估生成式文本摘要的事实一致性》阅读笔记
+https://zhuanlan.zhihu.com/p/198982396
+
+文本生成（Data2Text）数据集调研
+https://zhuanlan.zhihu.com/p/356299078
+
+基于 transformers 的 generate() 方法实现多样化文本生成：参数含义和算法原理解读
+https://blog.csdn.net/muyao987/article/details/125917234
+
+对话摘要技术在美团的探索（SIGIR）
+https://zhuanlan.zhihu.com/p/522716072
+
+RARR: Researching and Revising What Language Models Say, Using Language Models
+https://arxiv.org/abs/2210.08726
+
+Socratic Pretraining: Question-Driven Pretraining for Controllable Summarization
+https://arxiv.org/abs/2212.10449
+
+Dialog Inpainting: Turning Documents into Dialogs
+https://arxiv.org/abs/2205.09073
+
+Hugging Face中GPT2模型应用代码
+https://zhuanlan.zhihu.com/p/498677758
+
+【论文阅读笔记】HIBRIDS: Attention with Hierarchical Biasesfor Structure-aware Long Document Summarization
+https://blog.csdn.net/weixin_43894304/article/details/127758481
+https://github.com/ShuyangCao/hibrids_summ
+
+对话/会议摘要生成-论文整理（Dialogue/Meeting Summarization）
+https://zhuanlan.zhihu.com/p/410909608
+
+
+Quark：利用强化学习进行控制文本生成
+https://zhuanlan.zhihu.com/p/599157047
+https://github.com/GXimingLu/Quark
+https://arxiv.org/abs/2205.13636
+
+NLP学习资源分享|强化学习与文本生成
+https://zhuanlan.zhihu.com/p/212453566
+
+Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
+https://arxiv.org/abs/2210.01241
+https://github.com/allenai/rl4lms
+
+
+The CRINGE Loss: Learning what language not to model
+https://blog.csdn.net/bqw18744018044/article/details/128180431
+https://arxiv.org/abs/2211.05826
+
+Plug and Play Language Models: A Simple Approach to Controlled Text Generation
+https://arxiv.org/abs/1912.02164
+https://blog.csdn.net/qq_36533552/article/details/107131606
+https://blog.csdn.net/weixin_42137700/article/details/103488694
+https://github.com/uber-research/PPLM
+https://transformer.huggingface.co/model/pplm 
+
+Changing the Mind of Transformers for Topically-Controllable Language Generation
+https://arxiv.org/abs/2103.15335
+https://blog.csdn.net/weixin_46830886/article/details/121502131
+
+CoCon: A Self-Supervised Approachfor Controlled Text Generation
+https://zhuanlan.zhihu.com/p/347187534
+https://arxiv.org/abs/2006.03535
+
+CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION翻译
+https://blog.csdn.net/qq_28385535/article/details/122541046
+https://blog.csdn.net/m0_47779101/article/details/127792858
+https://arxiv.org/abs/1909.05858
+
+POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training
+https://arxiv.org/abs/2005.00558
+香侬读 | 非自回归也能预训练：基于插入的硬约束生成模型预训练方法
+https://zhuanlan.zhihu.com/p/139351402
+
+Meta-review还要亲手写吗？篇章级可控文本生成来帮忙
+https://zhuanlan.zhihu.com/p/520462133
+
+用强化学习神包trl轻松实现GPT2可控文本生成
+https://zhuanlan.zhihu.com/p/616036438
+
+可控文本生成系列-A Survey of Controllable Text Generation using Transformer-based Pre-trained
+https://blog.csdn.net/yaohaishen/article/details/125893621
+https://arxiv.org/abs/2201.05337
+
+Training language models to follow instructions with human feedback
+https://arxiv.org/abs/2203.02155
+
+ChatGPT/InstructGPT详解
+https://zhuanlan.zhihu.com/p/590311003
+
+InstructGPT与Instruction Tuning: 管中窥豹ChatGPT
+https://zhuanlan.zhihu.com/p/589734619
+
+OpenAI是如何“魔鬼调教” GPT的？——InstructGPT论文解读
+https://zhuanlan.zhihu.com/p/595891945
+
+ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习
+https://zhuanlan.zhihu.com/p/589747432
+
+Prompt之文本生成
+https://zhuanlan.zhihu.com/p/521512441
+
+Controllable Generation from Pre-trained Language Models via Inverse Prompting翻译
+https://blog.csdn.net/qq_28385535/article/details/117993395
+https://arxiv.org/abs/2103.10685
+
+Facts2Story: Controlling Text Generation by Key Facts
+https://arxiv.org/abs/2012.04332
+
+FAST: Improving Controllability for Text Generation with Feedback Aware Self-Training
+https://arxiv.org/abs/2210.03167
+
+Learning to Generate Prompts for Dialogue Generation through Reinforcement Learning
+https://arxiv.org/abs/2206.03931
+https://blog.csdn.net/weixin_57523712/article/details/129873165
+
+Generate, Annotate, and Learn: NLP with Synthetic Text
+https://arxiv.org/abs/2106.06168
+https://www.sohu.com/a/615484841_121119001
+
+DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts
+https://arxiv.org/abs/2105.03023
+
+Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models
+https://arxiv.org/abs/2302.07388
+
+Classifiers are Better Experts for Controllable Text Generation
+https://arxiv.org/abs/2205.07276
+
+
+论文阅读 —《NEUROLOGIC DECODING: (Un)supervised Neural Text Generation with Predicate Logic Constraints》
+https://zhuanlan.zhihu.com/p/579521380
+https://arxiv.org/abs/2010.12884
+
+Second Thoughts are Best: Learning to Re-Align With Human Values from Text Edits
+https://arxiv.org/abs/2301.00355
+
+Understanding Iterative Revision from Human-Written Text
+https://arxiv.org/abs/2203.03802
+https://github.com/vipulraheja/iterater
+
+Improving Iterative Text Revision by Learning Where to Edit from Other Revision Tasks
+https://arxiv.org/abs/2212.01350
+
+Chain of Hindsight Aligns Language Models with Feedback
+https://arxiv.org/abs/2302.02676
+
+Self-Instruct: Aligning Language Model with Self Generated Instructions
+https://zhuanlan.zhihu.com/p/614916562
+https://arxiv.org/abs/2212.10560
+
+Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners
+https://arxiv.org/abs/2210.02969
+
+Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback
+https://arxiv.org/abs/2112.09737
+
+Generating Sequences by Learning to Self-Correct
+https://arxiv.org/abs/2211.00053
+
+REFINER: Reasoning Feedback on Intermediate Representations
+https://arxiv.org/abs/2304.01904
+
+Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback
+https://arxiv.org/abs/2302.12813
+
+Rethinking with Retrieval: Faithful Large Language Model Inference
+https://arxiv.org/abs/2301.00303
+
+Self-Refine: Iterative Refinement with Self-Feedback
+https://arxiv.org/abs/2303.17651
+https://github.com/madaan/self-refine
+
+Reflexion: an autonomous agent with dynamic memory and self-reflection
+https://arxiv.org/abs/2303.11366
+https://github.com/noahshinn024/reflexion
+
+
+AI讲话总爱“结巴”？这篇NeurIPS论文找到了病因，结巴率已接近人类！
+https://blog.csdn.net/xixiaoyaoww/article/details/127437974
+https://arxiv.org/abs/2206.02369
