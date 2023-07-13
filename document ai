@@ -1,0 +1,182 @@
+什么是文档智能？微软亚研最新《文档智能：数据集、模型和应用》综述
+https://zhuanlan.zhihu.com/p/548468069
+http://jcip.cipsc.org.cn/CN/abstract/abstract3331.shtml
+【MSRA文档智能综述论文】Document AI: Benchmarks, Models and Applications
+https://blog.csdn.net/weixin_39653948/article/details/127472184
+
+壹沓AI观察：Google加入文档智能化战局，Document AI离企业还有多远？
+https://zhuanlan.zhihu.com/p/336062155
+
+表格问答(Table QA)-TAPAS：Weakly Supervised Table Parsing via Pre-training
+https://zhuanlan.zhihu.com/p/587516752
+https://arxiv.org/abs/2004.02349
+ACL 2020 | 用BERT解决表格问答任务，谷歌提出弱监督表格解析器TaPas
+https://zhuanlan.zhihu.com/p/148891887
+
+Table-and-Text based question answering(QA)相关论文汇总
+https://zhuanlan.zhihu.com/p/497179000
+
+【NAACL 2021】RCI：在基于 Transformer 的表格问答中行和列语义捕获
+https://zhuanlan.zhihu.com/p/576441002
+https://arxiv.org/abs/2104.08303
+
+TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance
+https://zhuanlan.zhihu.com/p/509413832
+
+Table Pre-training（零）综述
+https://zhuanlan.zhihu.com/p/569470339
+
+ACL 2022 Oral | 谷歌提出TableFormer，无论如何扰动表格行列，模型总能检索到正确答案，扰动测试下提升6%-10%
+https://zhuanlan.zhihu.com/p/482606051
+https://arxiv.org/abs/2203.00274
+https://github.com/google-research/tapas/blob/master/TABLEFORMER.md
+
+干货 | 表格问答在客服场景下的落地应用
+https://zhuanlan.zhihu.com/p/431970230
+https://github.com/IBM/row-column-intersection
+
+
+想了解表格问答，我们先看看TA的前世
+https://zhuanlan.zhihu.com/p/325715296
+
+捕捉基于transformer的表格问答中的行和列语义
+https://zhuanlan.zhihu.com/p/611033506
+
+CVPR 2022 | IBM提出TableFormer：利用Transformer理解表格结构
+https://zhuanlan.zhihu.com/p/519976252
+TableFormer: Table Structure Understanding with Transformers
+https://arxiv.org/abs/2203.01017
+
+表格类数据上的自监督学习方法综述 Survey on Self-supervised Learning in Tabular Data
+https://zhuanlan.zhihu.com/p/622101897
+
+UNISAR: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL
+https://zhuanlan.zhihu.com/p/492506455
+
+
+ICLR 22 | 一个不需要自然语言的表格预训练方法
+https://zhuanlan.zhihu.com/p/570897065
+https://github.com/microsoft/Table-Pretraining
+
+
+Text2SQL任务调研(RATSQL、LGESQL、UnifiedSKG)
+https://zhuanlan.zhihu.com/p/594654393
+
+汽车说明书跨模态智能问答
+https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/document_intelligence/doc_vqa
+
+https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/README_ch.md
+
+LayoutLM、LayoutLMV2、LayoutXLM、LayoutLMV3
+https://blog.csdn.net/weixin_41819299/article/details/119757904
+
+LayoutLM——文本与布局的预训练用于文档图像理解
+LayoutLM: Pre-training of Text and Layout for Document Image Understanding
+https://blog.csdn.net/u010159842/article/details/108223246
+https://arxiv.org/abs/1912.13318
+
+【论文笔记】LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding(LayoutLMv2)
+https://blog.csdn.net/OneYearIsEnough/article/details/125001574
+https://arxiv.org/abs/2012.14740
+
+LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding
+微软亚洲研究院提出多语言通用文档理解预训练模型LayoutXLM
+https://www.msra.cn/zh-cn/news/features/layoutxlm
+https://arxiv.org/abs/2104.08836
+
+智能文档新成员：动态文档智能模型MarkupLM
+https://zhuanlan.zhihu.com/p/438072814
+MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding
+https://arxiv.org/abs/2110.08518
+
+LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
+https://arxiv.org/abs/2204.08387
+多模态文档AI-LayoutLMv3：具有统一文本和图像掩码的文档AI预训练(2022)
+https://zhuanlan.zhihu.com/p/588089395
+https://huggingface.co/microsoft/layoutlmv3-base-chinese
+https://github.com/microsoft/unilm/tree/master/layoutlmv3
+
+预训练时代下的文档智能，如何迈向多模态?丨微软亚研院团队的思路与实践
+https://zhuanlan.zhihu.com/p/405059064
+
+Unifying Vision, Text, and Layout for Universal Document Processing
+https://arxiv.org/abs/2212.02623
+https://github.com/microsoft/udop
+
+
+加速 Document AI (文档智能) 发展
+https://zhuanlan.zhihu.com/p/599266209
+
+
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+https://blog.csdn.net/weixin_42653320/article/details/122921575
+https://arxiv.org/abs/2201.12086
+
+BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+https://arxiv.org/abs/2301.12597
+BLIP-2：使用冻结图像编码器和大型语言模型的语言-图像预训练
+https://zhuanlan.zhihu.com/p/602360202
+BLIP-2：用冻结的图像编码器和大型语言模型进行语言-图像预训练的自举模型
+https://zhuanlan.zhihu.com/p/610388043
+BLIP-2：下一代多模态模型的雏形
+https://blog.csdn.net/amusi1994/article/details/129095966
+
+多模态（图文）预训练及实践
+https://zhuanlan.zhihu.com/p/402997033
+
+
+
+文档智能：通用文档预训练模型与数据集，推动NLP落地升级
+https://zhuanlan.zhihu.com/p/190188334
+
+多模态分析数据集（Multimodal Dataset）整理
+https://zhuanlan.zhihu.com/p/189876288
+
+[多模态]KOSMOS-1: From LLMs to MLLMs
+https://zhuanlan.zhihu.com/p/616868757
+Language Is Not All You Need: Aligning Perception with Language Models
+https://arxiv.org/abs/2302.14045
+
+一键PDF转Word，PP-Structurev2文档分析模型深度解读！
+https://zhuanlan.zhihu.com/p/557441719
+
+PyTorch官方库「上新」，TorchMultimodal 助力多模态人工智能
+https://zhuanlan.zhihu.com/p/585780916
+
+ERNIE-Layout: Layout-Knowledge Enhanced Multi-modal Pre-training for Document Understanding论文笔记
+https://zhuanlan.zhihu.com/p/577763720
+https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/ernie-layout
+ERNIE-Layout 笔记
+https://zhuanlan.zhihu.com/p/580997246
+https://arxiv.org/abs/2210.06155
+文档智能利器 —— 文心ERNIE-Layout
+https://mp.weixin.qq.com/s?__biz=MzI4NzYzMTYwNw==&mid=2247494250&idx=1&sn=150d496354cd254834520b7ef27c6454&chksm=ebc81bf2dcbf92e4ab15a9a39e7ffd88b6ebd804b6377dbee4a74a71f2b6904d6c79b23cc2e1&scene=27
+
+WebSRC: A Dataset for Web-Based Structural Reading Comprehension
+https://arxiv.org/abs/2101.09465
+https://github.com/X-LANCE/WebSRC-Baseline
+
+
+
+Ocr-free document understanding transformer
+https://blog.csdn.net/weixin_42280271/article/details/128214184
+https://github.com/clovaai/donut
+https://arxiv.org/abs/2111.15664
+
+
+赛尔原创@ACL 2022 | 面向中文真实搜索场景的开放域文档视觉问答数据集
+https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650805630&idx=1&sn=6d529de6d42da90d072eab3c3956be4f&chksm=8cb88095bbcf09836aa66775b43db43455871ad389d914a1951f3631596ef89b6b3d3fcbb1a6&scene=27
+https://github.com/baidu/DuReader/tree/master/DuReader-vis
+
+首发！MiniGPT-4 发布，代码模型开源，支持在线体验，好用再下载！！
+https://zhuanlan.zhihu.com/p/622670784
+https://minigpt-4.github.io/
+https://github.com/Vision-CAIR/MiniGPT-4
+
+Open Question Answering over Tables and Text
+https://arxiv.org/abs/2010.10439
+
+
+【论文解读】融合表格和文本的推理验证数据集FEVEROUS
+https://zhuanlan.zhihu.com/p/451137795
+
