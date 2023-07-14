@@ -40,6 +40,10 @@ https://arxiv.org/abs/2305.14795
 
 Decouple knowledge from paramters for plug-and-play language modeling
 https://arxiv.org/abs/2305.11564
+https://github.com/hannibal046/pluglm
+
+Dissecting Recall of Factual Associations in Auto-Regressive Language Models
+https://arxiv.org/abs/2304.14767
 
 Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering
 https://arxiv.org/abs/2204.04581
@@ -49,6 +53,9 @@ https://arxiv.org/abs/2302.13942
 
 Explaining How Transformers Use Context to Build Predictions
 https://arxiv.org/abs/2305.12535
+
+Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space
+https://arxiv.org/abs/2203.14680
 
 Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT
 https://arxiv.org/abs/2305.13417
@@ -81,3 +88,15 @@ https://www.php.cn/faq/552888.html
 Eliciting Latent Predictions from Transformers with the Tuned Lens
 https://arxiv.org/abs/2303.08112
 
+积分梯度：一种新颖的神经网络可视化方法
+https://www.spaces.ac.cn/archives/7533
+
+Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space
+https://arxiv.org/abs/2203.14680
+
+LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models
+https://arxiv.org/abs/2204.12130
+https://github.com/mega002/lm-debugger
+
+interpreting GPT: the logit lens
+https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
