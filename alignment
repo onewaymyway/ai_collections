@@ -5,11 +5,36 @@ OpenAI 预测七年内超级 AI 将问世，并宣布「20% 算力用来解决�
 https://www.zhihu.com/question/610639130/answers/updated
 https://openai.com/blog/introducing-superalignment
 
+用AI对齐AI？超级对齐团队领导人详解OpenAI对齐超级智能四年计划
+https://zhuanlan.zhihu.com/p/649441164
+
+GPT-4一天顶6个月，人类审核要失业？OpenAI凌晨发布重磅升级，或大量取代人类审核员
+https://zhuanlan.zhihu.com/p/650387533
+
+Using GPT-4 for content moderation
+https://openai.com/blog/using-gpt-4-for-content-moderation
+
+Open AI 曝光 GPT-4 这一新功能「一天可以完成六个月内容审核的工作」，将产生哪些影响？
+https://www.zhihu.com/question/617524795
+
+
 Ten Levels of AI Alignment Difficulty
 https://www.lesswrong.com/posts/EjgfreeibTXRx9Ham/ten-levels-of-ai-alignment-difficulty
 
 万字长文概览大语言模型对齐（欺骗性对齐、可扩展的监管、机械可解释性、工具性目标趋同
 https://zhuanlan.zhihu.com/p/643161870
+
+人机对齐概述｜13. 人机对齐问题的核心概念
+https://zhuanlan.zhihu.com/p/630894776
+
+Anthropic关于AI安全的核心观点：何时、何故、何事与如何
+https://zhuanlan.zhihu.com/p/626097959
+
+Quintic AI多图解读ChatGPT的各类失败案例
+https://zhuanlan.zhihu.com/p/621986033
+
+要研究深度学习的可解释性（Interpretability），应从哪几个方面着手？
+https://www.zhihu.com/question/320688440
 
 对Hugging Face开源模型精准投毒！LLM切脑后变身PoisonGPT，用虚假事实洗脑60亿人
 https://zhuanlan.zhihu.com/p/642616786
@@ -100,3 +125,28 @@ https://github.com/mega002/lm-debugger
 
 interpreting GPT: the logit lens
 https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
+
+Finding Skill Neurons in Pre-trained Transformer-based Language Models
+https://arxiv.org/abs/2211.07349
+
+Emergent Modularity in Pre-trained Transformers
+https://arxiv.org/abs/2305.18390
+
+Seeing is Believing: Brain-Inspired Modular Training for Mechanistic Interpretability
+https://arxiv.org/abs/2305.08746
+
+Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models
+https://arxiv.org/abs/2301.04213
+
+Augmenting Language Models with Long-Term Memory
+https://arxiv.org/abs/2306.07174
+https://zhuanlan.zhihu.com/p/639000130
+https://github.com/Victorwz/LongMem
+
+
+增强模型的记忆能力- Memorizing Transformers
+https://zhuanlan.zhihu.com/p/651891213
+https://arxiv.org/abs/2203.08913
+
+《 Focused Transformer: Contrastive Training for Context Scaling》阅读笔记
+https://zhuanlan.zhihu.com/p/642869077
