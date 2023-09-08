@@ -185,6 +185,7 @@ https://zhuanlan.zhihu.com/p/605917754
 
 预训练系列-Toolformer [year 2023，Meta AI Research]
 https://zhuanlan.zhihu.com/p/606004224
+https://arxiv.org/abs/2302.04761
 
 Action Transformer(ACT-1)，通用AI助手
 https://zhuanlan.zhihu.com/p/565025337
@@ -334,4 +335,85 @@ https://blog.csdn.net/Kaiyuan_sjtu/article/details/128722355
 
 论文阅读：Language Models are Few-Shot Learners（巨无霸OpenAI GPT3 2020）
 https://zhuanlan.zhihu.com/p/527825405
+https://arxiv.org/abs/2005.14165v2
 
+LLaMA: Open and Efficient Foundation Language Models
+https://arxiv.org/abs/2302.13971
+
+Pretraining Language Models with Human Preferences
+https://arxiv.org/abs/2302.08582
+
+
+HuggingGPT详细解读
+https://zhuanlan.zhihu.com/p/619896296
+https://zhuanlan.zhihu.com/p/618867496
+
+中科院 AI 团队最新研究发现，大模型可通过自我验证提高推理性能
+https://baijiahao.baidu.com/s?id=1753001841263400665&wfr=spider&for=pc
+https://arxiv.org/abs/2212.09561
+
+REALM: Retrieval-Augmented Language Model Pre-Training
+https://arxiv.org/abs/2002.08909
+https://blog.csdn.net/Forlogen/article/details/104343229
+
+
+如何向大模型注入知识？达摩院通义对话模型SPACE系列探索
+https://zhuanlan.zhihu.com/p/574318210
+
+The Flan Collection: Designing Data and Methods for Effective Instruction Tuning
+https://arxiv.org/abs/2301.13688
+https://github.com/google-research/FLAN/tree/main/flan/v2
+https://blog.csdn.net/weixin_42411502/article/details/129727707
+
+GPT is becoming a Turing machine: Here are some ways to program it
+https://arxiv.org/abs/2303.14310
+
+
+大语言模型的涌现能力：现象与解释
+https://zhuanlan.zhihu.com/p/621438653
+
+LLMPruner：大语言模型裁剪工具
+https://github.com/yangjianxin1/LLMPruner
+
+分析transformer模型的参数量、计算量、中间激活、KV cache
+https://zhuanlan.zhihu.com/p/624740065?utm_id=0
+
+
+算力就这么点，如何提升语言模型性能？谷歌想了个新点子
+http://k.sina.com.cn/article_5703921756_153faf05c019011721.html
+Transcending Scaling Laws with 0.1% Extra Compute
+https://arxiv.org/abs/2210.11399
+Scaling Instruction-Finetuned Language Models
+https://arxiv.org/abs/2210.11416
+
+一统江湖（SOTA）：论文阅读-预训练模型统一语言学习范式（UL2. 2022）
+https://zhuanlan.zhihu.com/p/522753806?utm_id=0
+UL2: Unifying Language Learning Paradigms
+https://arxiv.org/abs/2205.05131
+
+GLM: 自回归空白填充的通用语言模型预训练
+https://zhuanlan.zhihu.com/p/560559133
+GLM: General Language Model Pretraining with Autoregressive Blank Infilling
+https://aclanthology.org/2022.acl-long.26/
+
+
+稀疏性在机器学习中的发展趋势——Sparsity，稀疏激活，高效计算，MoE，稀疏注意力机制
+https://zhuanlan.zhihu.com/p/463352552
+
+不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究
+https://zhuanlan.zhihu.com/p/640649190
+
+AGI最前沿：GPT-4之后大模型学术进展速览
+https://zhuanlan.zhihu.com/p/639165892
+
+ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks
+https://arxiv.org/abs/2306.14525
+
+LLM推理提速2.8倍，CMU清华姚班校友提出投机式推理引擎SpecInfer
+https://baijiahao.baidu.com/s?id=1767303587524866874&wfr=spider&for=pc
+https://arxiv.org/abs/2305.09781
+
+White-Box Transformers via Sparse Rate Reduction
+https://arxiv.org/abs/2306.01129
+LeCun力挺，马毅教授五年集大成之作：完全数学可解释的白盒Transformer，性能不输ViT
+https://zhuanlan.zhihu.com/p/635566089?utm_id=0
