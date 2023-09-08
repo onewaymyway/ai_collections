@@ -58,6 +58,9 @@ https://zhuanlan.zhihu.com/p/504609631
 Generating Long Sequences with Sparse Transformers
 https://arxiv.org/abs/1904.10509
 
+SPARSE TRANSFORMER浅析
+https://zhuanlan.zhihu.com/p/259591644
+
 Open AI新研究补齐Transformer短板，将可预测序列长度提高30倍
 https://baijiahao.baidu.com/s?id=1631672936541592253&wfr=spider&for=pc
 
@@ -74,8 +77,38 @@ https://blog.csdn.net/xixiaoyaoww/article/details/123911465
 Google团队发布，一文概览Transformer模型的17大高效变种
 https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247529437&idx=1&sn=cba6ebc4025c2c92244f35c4a9577609&chksm=e9e17a56de96f340bb5e2b392b6d7bd1eb70fe9000ea7fab4472b538b67ccb01700f50a06a97&scene=27
 
+
+Transformer变体（Routing Transformer，Linformer，Big Bird）
+https://blog.csdn.net/qq_39388410/article/details/113528697
+Efficient Content-Based Sparse Attention with Routing Transformers
+https://arxiv.org/abs/2003.05997
+
 SPARSE TRANSFORMER浅析
 https://zhuanlan.zhihu.com/p/259591644
+
+
+A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies
+https://arxiv.org/abs/2302.06218
+
+RWKV
+https://github.com/BlinkDL/RWKV-LM
+野心勃勃的RNN——RWKV语言模型及其100行代码极简实现
+https://zhuanlan.zhihu.com/p/620469303
+RWKV:一种鱼和熊掌兼得的线性transformer模型
+https://zhuanlan.zhihu.com/p/437714049
+RWKV-v2-RNN 原理：超越 Transformer，实现 O(T) 的语言建模
+https://zhuanlan.zhihu.com/p/514840332
+
+最新研究！Transformer的Token可拓展至100多万，精度高，兼容性好（含源码）
+https://zhuanlan.zhihu.com/p/624892711
+https://arxiv.org/abs/2304.11062
+https://github.com/booydar/t5-experiments/tree/scaling-report
+
+论文分享：新型注意力算法FlashAttention
+https://zhuanlan.zhihu.com/p/618533434
+
+为内存塞不下Transformer犯愁？OpenAI应用AI研究负责人写了份指南
+https://new.qq.com/rain/a/20230205A02SY000
 
 
 A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies
