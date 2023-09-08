@@ -1,0 +1,35 @@
+博采众长！我全都要！Allen AI推出集成主流大语言模型的LLM-BLENDER框架
+https://blog.csdn.net/qq_27590277/article/details/131148880
+
+Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+https://arxiv.org/abs/2101.03961
+NLP炼丹笔记：Switch Transformers 朴实无华 大招秒杀
+https://zhuanlan.zhihu.com/p/344702054
+Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+https://paperswithcode.com/paper/switch-transformers-scaling-to-trillion
+
+稀疏性在机器学习中的发展趋势——Sparsity，稀疏激活，高效计算，MoE，稀疏注意力机制
+https://zhuanlan.zhihu.com/p/463352552
+
+【LLM 002】从Scaling Laws到MoE
+https://zhuanlan.zhihu.com/p/636861410?utm_id=0
+
+Brainformers: Trading Simplicity for Efficiency
+https://arxiv.org/abs/2306.00008
+
+Mixture-of-Experts with Expert Choice Routing
+https://arxiv.org/abs/2202.09368
+
+Flan-MoE: Scaling Instruction-Finetuned Language Models with Sparse Mixture of Experts
+https://arxiv.org/abs/2305.14705
+
+【随机 Expert】Taming Sparsely Activated Transformer with Stochastic Experts
+https://zhuanlan.zhihu.com/p/522417453
+
+初识MoE：OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER
+https://zhuanlan.zhihu.com/p/587221910
+
+黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？
+https://www.zhihu.com/question/607812079
+
+https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/
