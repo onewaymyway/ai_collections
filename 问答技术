@@ -175,3 +175,42 @@ https://zhuanlan.zhihu.com/p/613649876
 
 Ask what's missing and what's useful: Improving Clarification Question Generation using Global Knowledge
 https://arxiv.org/abs/2104.06828
+
+
+RoR: Read-over-Read for Long Document Machine Reading Comprehension
+https://arxiv.org/abs/2109.04780
+
+
+Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction
+https://blog.csdn.net/qq_36426650/article/details/117589980
+https://arxiv.org/abs/1905.08511
+
+Learning to Retrieve In-Context Examples for Large Language Models
+https://arxiv.org/abs/2307.07164
+
+
+《Learning To Retrieve Prompts for In-Context Learning 》论文阅读
+https://zhuanlan.zhihu.com/p/530531916
+
+RecallM: An Architecture for Temporal Context Understanding and Question Answering
+https://arxiv.org/abs/2307.02738
+
+
+Transformer Memory as a Differentiable Search Index
+https://zhuanlan.zhihu.com/p/633411368
+
+ChatGPT时代，垂直搜索如何破？
+https://blog.csdn.net/VucNdnrzk8iwX/article/details/129722260
+
+A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning
+https://arxiv.org/abs/2304.14856
+
+Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation
+https://arxiv.org/abs/2206.10128
+
+Understanding Differential Search Index for Text Retrieval
+https://arxiv.org/abs/2305.02073
+
+Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement
+https://arxiv.org/abs/2305.14497
+
