@@ -10,3 +10,31 @@ https://github.com/tloen/alpaca-lora
 
 LoCon相对于LoRA的改进
 https://zhuanlan.zhihu.com/p/612133434
+
+QLoRA：一种高效LLMs微调方法，48G内存可调65B 模型，调优模型Guanaco 堪比Chatgpt的99.3%
+https://zhuanlan.zhihu.com/p/632229856
+
+QLoRA的实测记录
+https://zhuanlan.zhihu.com/p/632398047
+
+开源原驼（Guanaco）及背后的QLoRA技术，将微调65B模型的显存需求从780GB以上降低到48GB以下，效果直逼GPT-4，技术详解
+https://zhuanlan.zhihu.com/p/632236718
+QLoRA: Efficient Finetuning of Quantized LLMs
+https://arxiv.org/abs/2305.14314
+
+
+Firefly(流萤): 中文对话式大语言模型
+https://www.shangyexinzhi.com/article/7399473.html
+
+【OpenLLM 007】大模型炼丹术之小参数撬动大模型-万字长文全面解读PEFT参数高效微调技术
+https://zhuanlan.zhihu.com/p/625502729
+
+deepspeed入门教程
+https://zhuanlan.zhihu.com/p/630734624
+
+《Universal Language Model Fine-tuning for Text Classification》论文笔记
+https://blog.csdn.net/weixin_44815943/article/details/123870564
+
+微软也搞起了开源小模型！利用 OpenAI 的 ChatGPT 和 GPT-4 训练，实力碾压当前最强开源模型
+https://zhuanlan.zhihu.com/p/639212768
+
