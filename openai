@@ -1,0 +1,54 @@
+Summarizing books with human feedback
+https://openai.com/research/summarizing-books
+Recursively Summarizing Books with Human Feedback
+https://arxiv.org/abs/2109.10862
+
+Improving language model behavior by training on a curated dataset
+https://openai.com/research/improving-language-model-behavior
+让AI说话告别三观不正，OpenAI只用80个文本就做到了
+https://cloud.tencent.com/developer/article/2237698
+Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets
+https://arxiv.org/abs/2106.10328
+
+Learning to summarize with human feedback
+https://openai.com/research/learning-to-summarize-with-human-feedback
+https://arxiv.org/abs/2009.01325
+https://github.com/openai/summarize-from-feedback
+
+Generative language modeling for automated theorem proving
+https://openai.com/research/generative-language-modeling-for-automated-theorem-proving
+https://arxiv.org/abs/2009.03393
+OpenAI推出数学推理证明模型，推理结果首次被数学家接受
+https://baijiahao.baidu.com/s?id=1680338858716501968&wfr=spider&for=pc
+
+
+Baldur: Whole-Proof Generation and Repair with Large Language Models
+https://arxiv.org/abs/2303.04910
+
+AbductionRules: Training Transformers to Explain Unexpected Inputs
+https://arxiv.org/abs/2203.12186
+
+Learning complex goals with iterated amplification
+https://openai.com/research/learning-complex-goals-with-iterated-amplification
+https://arxiv.org/abs/1810.08575
+
+Training Language Models with Memory Augmentation
+https://arxiv.org/abs/2205.12674
+https://github.com/princeton-nlp/trime
+
+ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于GPT-4/ChatGPT技术与产业分析）
+https://zhuanlan.zhihu.com/p/590655677
+
+OpenAI“用AI解释AI”最新发布：GPT-4解释GPT-2，让机器以自动化方式完成AI研究
+https://www.tmtpost.com/nictation/6522621.html
+https://openai.com/research/language-models-can-explain-neurons-in-language-models
+https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html
+https://www.sohu.com/a/674302135_104036
+
+
+OpenAI 宣布新的 AI 校正计划
+https://zhuanlan.zhihu.com/p/641786934
+https://openai.com/blog/introducing-superalignment
+
+GPT-4内幕大泄露！1.8万亿巨量参数，13万亿token训练，斥资6300万美元
+https://zhuanlan.zhihu.com/p/642831953
