@@ -114,3 +114,14 @@ https://new.qq.com/rain/a/20230205A02SY000
 A Unified View of Long-Sequence Models towards Modeling Million-Scale Dependencies
 https://arxiv.org/abs/2302.06218
 
+论文阅读 Long-range Language Modeling with Self-retrieval
+https://zhuanlan.zhihu.com/p/640710751
+https://arxiv.org/abs/2306.13421
+
+超长上下文处理：基于Transformer上下文处理常见方法梳理
+https://blog.csdn.net/wwlsm_zql/article/details/131646700
+
+LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models
+https://arxiv.org/abs/2308.16137
+LM-Infinite: 一种简单有效的大模型即时长度泛化，解决更长文本推理问题
+https://blog.csdn.net/qq_27590277/article/details/132680459
