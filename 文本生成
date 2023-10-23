@@ -242,3 +242,6 @@ https://arxiv.org/abs/2308.00946
 评论能力强于GPT-4，上交开源13B评估大模型Auto-J
 https://zhuanlan.zhihu.com/p/662639644
 https://github.com/GAIR-NLP/auto-j
+
+再谈大模型RAG问答中的三个现实问题：兼看RAG-Fusion多query融合策略、回答引文生成策略及相关数据集概述
+https://zhuanlan.zhihu.com/p/660367296
