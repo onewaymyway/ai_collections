@@ -26,7 +26,6 @@ https://arxiv.org/abs/2310.17631
 Evaluating Large Language Models at Evaluating Instruction Following
 https://arxiv.org/abs/2310.07641
 
-
 Generative Judge for Evaluating Alignment
 https://arxiv.org/abs/2310.05470
 评论能力强于GPT-4，上交开源13B评估大模型Auto-J
@@ -35,3 +34,8 @@ https://github.com/GAIR-NLP/auto-j
 
 Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 https://arxiv.org/abs/2306.05685
+
+利用GPT4等进行大模型自动打分是否靠谱：3种评价方法、4大缺陷及4大应对方案工作解读
+http://lechangxia.cc/gpt4/411.html
+
+
