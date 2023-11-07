@@ -26,8 +26,12 @@ https://arxiv.org/abs/2310.17631
 Evaluating Large Language Models at Evaluating Instruction Following
 https://arxiv.org/abs/2310.07641
 
+
 Generative Judge for Evaluating Alignment
 https://arxiv.org/abs/2310.05470
 评论能力强于GPT-4，上交开源13B评估大模型Auto-J
 https://zhuanlan.zhihu.com/p/662639644
 https://github.com/GAIR-NLP/auto-j
+
+Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
+https://arxiv.org/abs/2306.05685
