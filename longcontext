@@ -128,3 +128,6 @@ LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models
 https://arxiv.org/abs/2308.16137
 LM-Infinite: 一种简单有效的大模型即时长度泛化，解决更长文本推理问题
 https://blog.csdn.net/qq_27590277/article/details/132680459
+
+【新智元导读】大模型上下文从此不再受限！港中文贾佳亚团队联手MIT发布了全新超长文本扩展技术LongLoRA，只需2行代码，让LLM看小说，读论文，轻松拿捏。
+https://zhuanlan.zhihu.com/p/660284802
