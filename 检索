@@ -9,3 +9,12 @@ https://instructor-embedding.github.io/
 
 为什么Embedding模型在大语言模型中很重要？
 https://zhuanlan.zhihu.com/p/647280030
+
+Towards General Text Embeddings with Multi-stage Contrastive Learning
+https://arxiv.org/abs/2308.03281
+GTE(MTEB Top2)的成功秘诀--大力出奇迹
+https://zhuanlan.zhihu.com/p/652472924
+https://huggingface.co/thenlper/gte-large-zh
+
+Text embedding 模型总结
+https://blog.csdn.net/dzysunshine/article/details/133674250
