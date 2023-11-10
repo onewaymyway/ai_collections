@@ -27,6 +27,8 @@ https://arxiv.org/abs/2306.05087
 
 JudgeLM: Fine-tuned Large Language Models are Scalable Judges
 https://arxiv.org/abs/2310.17631
+https://github.com/baaivision/JudgeLM
+https://huggingface.co/datasets/BAAI/JudgeLM-100K
 
 Evaluating Large Language Models at Evaluating Instruction Following
 https://arxiv.org/abs/2310.07641
