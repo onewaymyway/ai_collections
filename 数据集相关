@@ -100,6 +100,8 @@ https://dumps.wikimedia.org/zhwiki/
 
 https://huggingface.co/datasets/wangrongsheng/comparison_gpt4_data
 
+UltraFeedback: Boosting Language Models with High-quality Feedback
+https://arxiv.org/abs/2310.01377
 https://github.com/OpenBMB/UltraFeedback
 https://huggingface.co/datasets/openbmb/UltraFeedback
 
