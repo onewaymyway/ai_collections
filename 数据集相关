@@ -150,3 +150,7 @@ ChineseWebText: Large-scale High-quality Chinese Web Text Extracted with Effecti
 https://arxiv.org/abs/2311.01149
 https://github.com/casia-lm/chinesewebtext
 https://huggingface.co/datasets/CASIA-LM/ChineseWebText
+
+LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
+https://arxiv.org/abs/2309.11998
+https://huggingface.co/datasets/lmsys/lmsys-chat-1m
