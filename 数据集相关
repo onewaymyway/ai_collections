@@ -145,3 +145,8 @@ https://huggingface.co/datasets/shjwudp/shu
 https://huggingface.co/datasets/BelleGroup/train_3.5M_CN/viewer/BelleGroup--train_3.5M_CN/train?row=2
 
 https://huggingface.co/datasets/openchat/openchat_sharegpt4_dataset/tree/main
+
+ChineseWebText: Large-scale High-quality Chinese Web Text Extracted with Effective Evaluation Model
+https://arxiv.org/abs/2311.01149
+https://github.com/casia-lm/chinesewebtext
+https://huggingface.co/datasets/CASIA-LM/ChineseWebText
