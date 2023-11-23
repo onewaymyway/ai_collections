@@ -154,3 +154,5 @@ https://huggingface.co/datasets/CASIA-LM/ChineseWebText
 LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset
 https://arxiv.org/abs/2309.11998
 https://huggingface.co/datasets/lmsys/lmsys-chat-1m
+
+https://huggingface.co/datasets/YeungNLP/moss-003-sft-data
