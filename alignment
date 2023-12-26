@@ -33,6 +33,8 @@ https://zhuanlan.zhihu.com/p/626097959
 Quintic AI多图解读ChatGPT的各类失败案例
 https://zhuanlan.zhihu.com/p/621986033
 
+Weak-to-strong generalization
+https://openai.com/research/weak-to-strong-generalization
 要研究深度学习的可解释性（Interpretability），应从哪几个方面着手？
 https://www.zhihu.com/question/320688440
 
@@ -41,7 +43,8 @@ https://zhuanlan.zhihu.com/p/642616786
 
 Overview of Model Editing
 https://zhuanlan.zhihu.com/p/609177437
-
+OpenAI超级对齐论文WEAK-TO-STRONG GENERALIZATION精读与梗概
+https://zhuanlan.zhihu.com/p/672715535
 Knowledge Neurons in Pretrained Transformers 北大-微软使用积分梯度从Transformer的FFN层提取“知识神经元”
 https://zhuanlan.zhihu.com/p/611481317
 
