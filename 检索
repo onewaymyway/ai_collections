@@ -50,3 +50,9 @@ https://arxiv.org/abs/2309.01431
 
 Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification
 https://arxiv.org/abs/2311.09114
+
+维基百科+大模型打败幻觉！斯坦福WikiChat性能碾压GPT-4，准确率高达97.3%
+https://zhuanlan.zhihu.com/p/675857387
+WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia
+https://arxiv.org/abs/2305.14292
+https://github.com/stanford-oval/WikiChat
