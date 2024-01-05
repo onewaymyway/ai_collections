@@ -159,3 +159,8 @@ https://huggingface.co/datasets/YeungNLP/moss-003-sft-data
 
 ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models
 https://arxiv.org/abs/2311.09182
+
+【LLM-数学】 MathPile：10B数学预训练语料库
+https://zhuanlan.zhihu.com/p/675381963
+https://github.com/GAIR-NLP/MathPile/
+https://huggingface.co/datasets/GAIR/MathPile
