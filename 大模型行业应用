@@ -56,3 +56,43 @@ Towards Expert-Level Medical Question Answering with Large Language Models
 https://arxiv.org/abs/2305.09617
 详解Med-PaLM 2，基于PaLM 2的专家级医疗问答大语言模型
 https://zhuanlan.zhihu.com/p/629973364
+
+HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge
+https://arxiv.org/abs/2304.06975
+https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+
+DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation
+https://arxiv.org/abs/2308.14346
+https://github.com/FudanDISC/DISC-MedLLM
+
+XrayGLM
+https://github.com/WangRongsheng/XrayGLM
+
+MindChat
+https://github.com/X-D-Lab/MindChat
+
+AlphaFold2
+https://github.com/google-deepmind/alphafold
+Highly accurate protein structure prediction with AlphaFold
+https://www.nature.com/articles/s41586-021-03819-2
+‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
+https://www.nature.com/articles/d41586-020-03348-4
+理解AlphaFold2
+https://zhuanlan.zhihu.com/p/570610949
+AI for science里程碑—AlphaFold2
+https://zhuanlan.zhihu.com/p/514047548
+
+Accurate proteome-wide missense variant effect prediction with AlphaMissense
+https://www.science.org/doi/10.1126/science.adg7492
+DeepMind 利用无监督学习开发 AlphaMissense，预测 7100 万种基因突变
+https://mp.weixin.qq.com/s?__biz=MzU3NTQ2NDIyOQ==&mid=2247503697&idx=1&sn=d548c25a206172201432cf43247ea43a&chksm=fd20391bca57b00dd7aadc4a2bd67365fd20b3b7ebfe51b1197fb3e10502aff58c7d35d27563&scene=21#wechat_redirect
+
+Science：谷歌DeepMind发布AI天气预报模型，兼具速度与准度（个人电脑即可运行）
+https://zhuanlan.zhihu.com/p/667118041
+Learning skillful medium-range global weather forecasting
+https://www.science.org/doi/10.1126/science.adi2336
+
+Landslide susceptibility modeling by interpretable neural network
+https://www.nature.com/articles/s43247-023-00806-5
+变透明的黑匣子：UCLA 开发可解释神经网络 SNN 预测山体滑坡
+https://mp.weixin.qq.com/s?__biz=MzU3NTQ2NDIyOQ==&mid=2247502820&idx=1&sn=e471fa2818c255401a89238487dbac5b&chksm=fd203daeca57b4b8f5074aa70e3f094ef2e5a40ac28449ebf7f5bae159fe2575660d27c31e4a&scene=21#wechat_redirect
