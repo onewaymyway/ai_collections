@@ -76,6 +76,29 @@ https://arxiv.org/abs/2308.12032
 DeepSpeed之ZeRO系列：将显存优化进行到底
 https://basicv8vc.github.io/posts/zero/
 
+FSDP(Fully Sharded Data Parallel)
+https://blog.csdn.net/studyeboy/article/details/133888212
+Fully Sharded Data Parallel: faster AI training with fewer GPUs
+https://engineering.fb.com/2021/07/15/open-source/fsdp/
+Facebook推出数据并行训练算法FSDP：采用更少的GPU，更高效地训练更大数量级的模型
+https://aif.amtbbs.org/index.php/2021/08/23/383/
+
+Megatron-LM论文阅读笔记
+https://zhuanlan.zhihu.com/p/631030756
+Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
+https://arxiv.org/abs/1909.08053
+
+论文解读系列第四篇：谷歌GPipe训练超大规模神经网络
+https://zhuanlan.zhihu.com/p/113233933
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+https://arxiv.org/abs/1811.06965
+
+SE-MoE：可拓展分布式MoE训练及推理框架（百度）
+https://blog.csdn.net/cold_code486/article/details/133683242
+SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System
+https://arxiv.org/abs/2205.10034
+
+
 Textbooks Are All You Need 论文精读与翻译
 https://zhuanlan.zhihu.com/p/673040548
 Textbooks Are All You Need II: phi-1.5 technical report 精读与翻译
