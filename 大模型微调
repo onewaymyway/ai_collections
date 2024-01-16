@@ -98,6 +98,13 @@ https://blog.csdn.net/cold_code486/article/details/133683242
 SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System
 https://arxiv.org/abs/2205.10034
 
+GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding 论文翻译与精读
+https://zhuanlan.zhihu.com/p/672837901
+如何超越数据并行和模型并行：从GShard谈起
+https://mp.weixin.qq.com/s?__biz=MzU5ODY2MTk3Nw==&mid=2247486137&idx=1&sn=fa429fd4a94a6b815199c9a294276f59&chksm=fe41848fc9360d99b46b20b8bce3e36d7ee981d5e3c64860fe925a0af97de701fde284c1f3a0&scene=21#wechat_redirect
+GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding
+https://arxiv.org/abs/2006.16668
+
 
 Textbooks Are All You Need 论文精读与翻译
 https://zhuanlan.zhihu.com/p/673040548
