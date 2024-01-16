@@ -35,6 +35,10 @@ https://zhuanlan.zhihu.com/p/625502729
 
 deepspeed入门教程
 https://zhuanlan.zhihu.com/p/630734624
+DeepSpeed介绍
+https://zhuanlan.zhihu.com/p/624412809
+DeepSpeed之ZeRO系列：将显存优化进行到底
+https://basicv8vc.github.io/posts/zero/
 
 《Universal Language Model Fine-tuning for Text Classification》论文笔记
 https://blog.csdn.net/weixin_44815943/article/details/123870564
@@ -73,8 +77,7 @@ https://zhuanlan.zhihu.com/p/658128530
 https://zhuanlan.zhihu.com/p/666613055
 https://arxiv.org/abs/2308.12032
 
-DeepSpeed之ZeRO系列：将显存优化进行到底
-https://basicv8vc.github.io/posts/zero/
+
 
 FSDP(Fully Sharded Data Parallel)
 https://blog.csdn.net/studyeboy/article/details/133888212
