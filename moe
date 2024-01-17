@@ -43,8 +43,14 @@ https://zhuanlan.zhihu.com/p/673109934
 https://zhuanlan.zhihu.com/p/677591545
 混合专家模型 (MoE) 详解
 https://huggingface.co/blog/zh/moe
+【手撕LLM-sMoE】离GPT4又近了一步
+https://zhuanlan.zhihu.com/p/672726704
 
 黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？
 https://www.zhihu.com/question/607812079
 
 https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/
+
+Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints
+https://arxiv.org/abs/2212.05055
+
