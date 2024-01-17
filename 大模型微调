@@ -40,6 +40,9 @@ https://zhuanlan.zhihu.com/p/624412809
 DeepSpeed之ZeRO系列：将显存优化进行到底
 https://basicv8vc.github.io/posts/zero/
 https://www.deepspeed.ai/training/
+LLM 学习笔记-Deepspeed-MoE 论文
+https://zhuanlan.zhihu.com/p/670968683
+
 
 《Universal Language Model Fine-tuning for Text Classification》论文笔记
 https://blog.csdn.net/weixin_44815943/article/details/123870564
@@ -91,6 +94,10 @@ Megatron-LM论文阅读笔记
 https://zhuanlan.zhihu.com/p/631030756
 Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
 https://arxiv.org/abs/1909.08053
+[细读经典]Megatron论文和代码详细分析(1)
+https://zhuanlan.zhihu.com/p/366906920
+Megatron-LM：使用模型并行训练数十亿参数的语言模型
+https://zhuanlan.zhihu.com/p/644493033
 
 论文解读系列第四篇：谷歌GPipe训练超大规模神经网络
 https://zhuanlan.zhihu.com/p/113233933
