@@ -98,6 +98,8 @@ https://arxiv.org/abs/1909.08053
 https://zhuanlan.zhihu.com/p/366906920
 Megatron-LM：使用模型并行训练数十亿参数的语言模型
 https://zhuanlan.zhihu.com/p/644493033
+Megatron-LM 第三篇Paper总结——Sequence Parallelism & Selective Checkpointing
+https://zhuanlan.zhihu.com/p/522198082
 
 论文解读系列第四篇：谷歌GPipe训练超大规模神经网络
 https://zhuanlan.zhihu.com/p/113233933
