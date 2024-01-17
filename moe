@@ -29,6 +29,21 @@ https://zhuanlan.zhihu.com/p/522417453
 初识MoE：OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER
 https://zhuanlan.zhihu.com/p/587221910
 
+【LLM】Mixtral 8x7B的论文发布了
+https://zhuanlan.zhihu.com/p/677701448
+探索Mixtral 8x7B MOE，中文Finetune混合专家模型
+https://zhuanlan.zhihu.com/p/674026711
+Mixtral-8x7B MoE大模型微调实践，超越Llama2-65B
+https://zhuanlan.zhihu.com/p/674028456
+万字长文详解 Mixtral 8x7B - 价值20亿美元的 MoE 大语言模型
+https://zhuanlan.zhihu.com/p/676114291
+Mixtral-8x7B-Instruct-v0.1 使用记录
+https://zhuanlan.zhihu.com/p/673109934
+使用Mixtral-offloading在消费级硬件上运行Mixtral-8x7B
+https://zhuanlan.zhihu.com/p/677591545
+混合专家模型 (MoE) 详解
+https://huggingface.co/blog/zh/moe
+
 黑客 George Hotz 爆料 GPT-4 由 8 个 MoE 模型组成，真的吗？
 https://www.zhihu.com/question/607812079
 
