@@ -133,12 +133,31 @@ https://zhuanlan.zhihu.com/p/643162614
 独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法
 https://it.sohu.com/a/715204130_121119001
 
+
 【LLM】Ziya2: 数据中心化学习是所有LLM需要的(Ziya2: Data-centric Learning is All LLMs Need)
 https://zhuanlan.zhihu.com/p/665614074
 Ziya2: Data-centric Learning is All LLMs Need
 https://arxiv.org/abs/2311.03301
 
+
+
+如何从数据集中自动识别高质量的指令数据-IFD指标的使用
+https://zhuanlan.zhihu.com/p/658128530
+
+
 大模型背景下如何自动筛选高质量的指令数据
 https://zhuanlan.zhihu.com/p/672468811
 MoDS: Model-oriented Data Selection for Instruction Tuning
 https://arxiv.org/abs/2311.15653
+
+DEITA-大模型指令微调的数据高效筛选方法
+https://zhuanlan.zhihu.com/p/675928711
+
+
+GPT-4使用效果不好？美国奥本大学提出Prompt分类法，另辟蹊径构建Prompt设计指南
+https://zhuanlan.zhihu.com/p/644545992
+
+放弃评测大模型，普林斯顿大学已经开始评估Prompt了，提出Prompt评估框架
+https://zhuanlan.zhihu.com/p/644546392
+
+
