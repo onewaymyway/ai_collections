@@ -126,8 +126,10 @@ https://zhuanlan.zhihu.com/p/673021932
 
 大模型如何在指令微调过程中构造或筛选高质量数据？ - 刘聪NLP的回答 - 知乎
 https://www.zhihu.com/question/623570103/answer/3224726082
+
 WizardLM：赋予大型语言模型遵循复杂指令的能力
 https://zhuanlan.zhihu.com/p/643162614
+
 独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法
 https://it.sohu.com/a/715204130_121119001
 
@@ -135,3 +137,8 @@ https://it.sohu.com/a/715204130_121119001
 https://zhuanlan.zhihu.com/p/665614074
 Ziya2: Data-centric Learning is All LLMs Need
 https://arxiv.org/abs/2311.03301
+
+大模型背景下如何自动筛选高质量的指令数据
+https://zhuanlan.zhihu.com/p/672468811
+MoDS: Model-oriented Data Selection for Instruction Tuning
+https://arxiv.org/abs/2311.15653
