@@ -134,3 +134,9 @@ https://zhuanlan.zhihu.com/p/660284802
 
 微软新作，引入LongNet将Transformers上下文长度扩充到10亿
 https://baijiahao.baidu.com/s?id=1770804050075385670&wfr=spider&for=pc
+
+
+不受窗口长度限制的长文本生成全新思路：利用模型参数储存上文信息
+https://zhuanlan.zhihu.com/p/679713147
+With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation
+https://arxiv.org/abs/2401.11504
