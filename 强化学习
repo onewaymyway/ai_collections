@@ -4,6 +4,22 @@ https://zhuanlan.zhihu.com/p/635757674
 [细(戏)说]RLHF场景下的PPO算法的来龙去脉
 https://www.zhihu.com/tardis/bd/art/631338315?source_id=1001
 
+ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？
+https://www.zhihu.com/question/596230048
+
+ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？ - 郁博文的回答 - 知乎
+https://www.zhihu.com/question/596230048/answer/3102096962
+
+
+逆强化学习：从专家策略中学习奖励函数的无监督方法
+https://zhuanlan.zhihu.com/p/618067860?utm_id=0
+
+模仿学习：逆向强化学习(Inverse Reinforcement Learning， IRL)
+https://blog.csdn.net/qq_40206371/article/details/125063160
+
+RLHF总结
+https://www.cnblogs.com/end/p/17805338.html
+
 六、GAE 广义优势估计
 https://zhuanlan.zhihu.com/p/549145459
 
@@ -34,21 +50,6 @@ https://arxiv.org/abs/2310.16944
 DPO as Verifier
 https://zhuanlan.zhihu.com/p/682365020
 
-ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？
-https://www.zhihu.com/question/596230048
-
-ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？ - 郁博文的回答 - 知乎
-https://www.zhihu.com/question/596230048/answer/3102096962
-
-
-逆强化学习：从专家策略中学习奖励函数的无监督方法
-https://zhuanlan.zhihu.com/p/618067860?utm_id=0
-
-模仿学习：逆向强化学习(Inverse Reinforcement Learning， IRL)
-https://blog.csdn.net/qq_40206371/article/details/125063160
-
-RLHF总结
-https://www.cnblogs.com/end/p/17805338.html
 
 人类偏好优化算法哪家强？跟着高手一文学懂DPO、IPO和KTO
 https://zhuanlan.zhihu.com/p/682551974
