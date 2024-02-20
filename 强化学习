@@ -31,6 +31,9 @@ https://zhuanlan.zhihu.com/p/663782256
 Zephyr: Direct Distillation of LM Alignment
 https://arxiv.org/abs/2310.16944
 
+DPO as Verifier
+https://zhuanlan.zhihu.com/p/682365020
+
 ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？
 https://www.zhihu.com/question/596230048
 
