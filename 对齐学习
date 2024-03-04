@@ -40,6 +40,9 @@ https://arxiv.org/abs/2305.18290
 DPO: Direct Preference Optimization 论文解读及代码实践
 https://zhuanlan.zhihu.com/p/642569664
 
+[Paper Reading] 深入对比 DPO 和 RLHF
+https://zhuanlan.zhihu.com/p/676895603
+
 【LLM】Zephyr：直接提取语言模型的对齐(Zephyr: Direct Distillation of LM Alignment)
 https://zhuanlan.zhihu.com/p/665111490
 实战｜如何低成本训练一个可以超越 70B Llama2 的模型 Zephyr-7B
