@@ -119,6 +119,12 @@ https://zhuanlan.zhihu.com/p/612873436
 Constitutional AI: Harmlessness from AI Feedback
 https://arxiv.org/abs/2212.08073
 
+IBM也下场LLM了，自对齐、高效率的单峰驼Dromedary来了
+https://zhuanlan.zhihu.com/p/627643379
+Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+https://zhuanlan.zhihu.com/p/628431087
+Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+https://arxiv.org/abs/2305.03047
 
 RLAIF细节分享&个人想法
 https://zhuanlan.zhihu.com/p/657436655
@@ -157,3 +163,9 @@ https://arxiv.org/abs/2402.02416
 
 Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment
 https://arxiv.org/abs/2402.19085
+
+West-of-N: Synthetic Preference Generation for Improved Reward Modeling
+https://arxiv.org/abs/2401.12086
+
+Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback
+https://arxiv.org/abs/2309.17078
