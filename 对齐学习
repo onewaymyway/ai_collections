@@ -198,3 +198,8 @@ https://zhuanlan.zhihu.com/p/687533955
 ORPO: Monolithic Preference Optimization without Reference Model
 https://arxiv.org/abs/2403.07691
 https://github.com/xfactlab/orpo/tree/main
+
+大模型 DPO 存在致命缺陷？Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive 论文解读
+https://zhuanlan.zhihu.com/p/688138377
+Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive
+https://arxiv.org/abs/2402.13228
