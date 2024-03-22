@@ -1,1 +1,14 @@
 https://arena.lmsys.org/
+https://chat.openai.com/chat
+
+https://tiger-sms.com
+
+
+openai快速注册指南
+1.注册google账号
+短信验证可用免费短信平台接收，https://www.freereceivesms.com/
+2.注册openai账号
+注册时使用google账号绑定的模式，短信验证需要用收费平台，免费平台的账号即使注册成功了，里面没有钱，无法调用api
+收费平台：
+https://tiger-sms.com/ 我用的，充了30rmb，支付宝充值，大概可以注册七-八的样子
+https://sms-activate.org/ 没用过，应该也能支付宝充值，看网上好像性价比更高
