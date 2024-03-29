@@ -59,3 +59,8 @@ https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/
 Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints
 https://arxiv.org/abs/2212.05055
 
+Qwen1.5-MoE: 1/3的激活参数量达到7B模型的性能
+https://qwenlm.github.io/zh/blog/qwen-moe/
+https://github.com/QwenLM/Qwen1.5
+https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat
+
