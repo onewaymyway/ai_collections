@@ -177,3 +177,11 @@ https://zhuanlan.zhihu.com/p/684546559
 https://zhuanlan.zhihu.com/p/685556231
 Long-Context Language Modeling with Parallel Context Encoding
 https://arxiv.org/abs/2402.16617
+https://github.com/princeton-nlp/cepe
+
+提升LLM的“长篇阅读”能力：LongAlign助力提升长文理解
+https://zhuanlan.zhihu.com/p/682324807
+LongAlign: A Recipe for Long Context Alignment of Large Language Models
+https://arxiv.org/abs/2401.18058
+https://github.com/thudm/longalign
+
