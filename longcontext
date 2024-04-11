@@ -171,3 +171,9 @@ https://zhuanlan.zhihu.com/p/663720038
 DeepSpeed Ulysses: 训练极长序列Transformer模型的系统优化
 https://zhuanlan.zhihu.com/p/652206513
 
+陈丹琦团队新作：Llama-2上下文扩展至128k，10倍吞吐量仅需1/6内存
+https://zhuanlan.zhihu.com/p/684546559
+构建一个小的编码器来提升大模型处理长文本的能力
+https://zhuanlan.zhihu.com/p/685556231
+Long-Context Language Modeling with Parallel Context Encoding
+https://arxiv.org/abs/2402.16617
