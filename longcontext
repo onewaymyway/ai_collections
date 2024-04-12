@@ -185,3 +185,5 @@ LongAlign: A Recipe for Long Context Alignment of Large Language Models
 https://arxiv.org/abs/2401.18058
 https://github.com/thudm/longalign
 
+Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+https://arxiv.org/abs/2404.07143
