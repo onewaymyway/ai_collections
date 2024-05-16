@@ -11,4 +11,24 @@ https://github.com/tencent/HunyuanDiT
 Stable Diffusion 文生图技术原理
 https://zhuanlan.zhihu.com/p/652560126
 
+CVPR 2024 | 多实例生成控制器，即插即用！显著提升文生图模型的方位、属性、数量控制能力
+https://zhuanlan.zhihu.com/p/689618869
+
+ICCV2023最佳论文--斯坦福大学文生图模型ControlNet
+https://zhuanlan.zhihu.com/p/664595339
+
+ICML 2024 | 文生图新SOTA！Pika北大斯坦福联合推出RPG：多模态助力解决文生图两大难题
+https://zhuanlan.zhihu.com/p/697637854
+
+扩散模型之DiT：纯Transformer架构
+https://zhuanlan.zhihu.com/p/641013157
+
+DDPM -> LDM -> DiT：扩散模型, Sora 的演化历史
+https://zhuanlan.zhihu.com/p/686884305
+
+Sora 技术解读（附带 DiT 模型详解）
+https://zhuanlan.zhihu.com/p/683184325
+
+DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩
+https://zhuanlan.zhihu.com/p/697373085
 
