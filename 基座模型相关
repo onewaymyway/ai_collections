@@ -17,13 +17,21 @@ https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
 llama2
 https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
 
+llama3
+如何看待 Meta 发布 Llama3，并将推出 400B+ 版本？
+https://www.zhihu.com/question/653373334
+https://github.com/meta-llama/llama3
+https://llama.meta.com/llama3/
+
 qwen1.5
 https://github.com/QwenLM/Qwen1.5
 
 qwen2
 https://qwenlm.github.io/blog/qwen2/
 https://huggingface.co/Qwen/Qwen2-72B-Instruct
-如何看待 Meta 发布 Llama3，并将推出 400B+ 版本？
-https://www.zhihu.com/question/653373334
-https://github.com/meta-llama/llama3
-https://llama.meta.com/llama3/
+
+
+Gemma 2
+【LLM技术报告】《Gemma 2: Improving Open Language Models at a Practical Size》——Gemma 2技术报告（全文）
+https://zhuanlan.zhihu.com/p/706063275
+
