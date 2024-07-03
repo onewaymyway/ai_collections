@@ -197,6 +197,8 @@ Mapping the Mind of a Large Language Model
 https://www.anthropic.com/research/mapping-mind-language-model
 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet
 https://transformer-circuits.pub/2024/scaling-monosemanticity/index
+「论文速读」Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet
+https://zhuanlan.zhihu.com/p/702204376
 
 Finding GPT-4’s mistakes with GPT-4
 https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/
@@ -207,3 +209,6 @@ Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training
 https://arxiv.org/abs/2401.05566
 当心！不要教大模型骗人，研究表明AI变坏后，很难被纠正
 https://baijiahao.baidu.com/s?id=1789467200001404263&wfr=spider&for=pc
+
+Simple probes can catch sleeper agents
+https://www.anthropic.com/research/probes-catch-sleeper-agents
