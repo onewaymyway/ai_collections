@@ -152,4 +152,20 @@ https://blog.csdn.net/zhishi0000/article/details/140149782
 SecCorpus: 构建安全领域大模型数据的技术实践
 https://keenlab.tencent.com/zh/2024/04/11/2024-SecCorpus0411/
 
+垂直领域大模型的一些思考及开源模型汇总
+https://developer.volcengine.com/articles/7382402583719542834
+
+垂直领域大模型实践：训练技巧、落地思考
+https://www.dtstack.com/bbs/article/18607
+
+RAG还是微调？微软出了一份特定领域大模型应用建设流程指南
+https://www.jiqizhixin.com/articles/2024-02-16-5
+垂直领域的大模型应该如何构建？RAG还是微调呢？
+https://blog.csdn.net/python1234_/article/details/139744645
+RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture
+https://arxiv.org/abs/2401.08406
+
+大模型在金融领域落地思路与实践
+https://www.51cto.com/article/785671.html
+
 
