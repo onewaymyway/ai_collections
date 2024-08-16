@@ -253,3 +253,8 @@ https://zhuanlan.zhihu.com/p/711537210
 
 合成数据缺陷分析与缓解策略：优化基于合成数据的大语言模型训练
 https://zhuanlan.zhihu.com/p/705784458
+
+好样本，事半功倍：使用样本设计工程 (Sample Design Engineering) 来构造更好的LLM下游微调样本
+https://zhuanlan.zhihu.com/p/693933168
+Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs
+https://arxiv.org/abs/2404.13033
