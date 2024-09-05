@@ -83,4 +83,17 @@ https://arxiv.org/abs/2211.08411v2
 Google-ICML2023: 大型语言模型难以学习长尾知识，检索增强LLM前景广阔
 https://zhuanlan.zhihu.com/p/646876000
 
+学习检索增强生成(RAG)技术，看这篇就够了——热门RAG文章摘译(15篇)
+https://zhuanlan.zhihu.com/p/673392898
+
+一文读懂：大模型RAG（检索增强生成）
+https://zhuanlan.zhihu.com/p/675509396
+
+OpenAI是如何将RAG的准确率优化至98%的
+https://zhuanlan.zhihu.com/p/704291371
+
+RankRAG：通过 fine-tuning 方式来实现检索文本的排序和答案生成
+https://zhuanlan.zhihu.com/p/708596039
+RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs
+https://arxiv.org/abs/2407.02485
 
