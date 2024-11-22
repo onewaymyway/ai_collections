@@ -234,3 +234,5 @@ https://zhuanlan.zhihu.com/p/707261867
 2024年大模型Alignment偏好优化技术PPO,DPO, SimPO,KTO,Step-DPO, MCTS-DPO,SPO
 https://zhuanlan.zhihu.com/p/710021282
 
+【不靠谱】有关DPO训练时，为什么chosen和rejected的reward一起下降的猜想
+https://zhuanlan.zhihu.com/p/694381064
