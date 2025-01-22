@@ -44,6 +44,10 @@ https://zhuanlan.zhihu.com/p/14667483571
 
 让Qwen2.5 7B超越o1，微软干的！MSRA推出小模型数学推理自我进化新方法
 https://zhuanlan.zhihu.com/p/17541913283
+【论文解读】rStar-Math：无需蒸馏，小模型左脚踩右脚螺旋升天
+https://zhuanlan.zhihu.com/p/17653794686
+rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
+https://arxiv.org/abs/2501.04519
 
 OpenRFT：OpenAI最近推出的强化微调（RFT）的开源复现（尝试？）
 https://zhuanlan.zhihu.com/p/16525360964
@@ -58,3 +62,6 @@ https://zhuanlan.zhihu.com/p/18002354018
 
 DeepSeek-R1发布：HuggingFace趋势榜第一，通过强化学习激发大语言模型的推理能力
 https://zhuanlan.zhihu.com/p/19739117992
+
+
+
