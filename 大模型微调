@@ -301,3 +301,6 @@ S3FT选择性自监督微调：通过智能选择训练样本提升大模型整�
 https://zhuanlan.zhihu.com/p/29089224557
 Selective Self-to-Supervised Fine-Tuning for Generalization in Large Language Models
 https://arxiv.org/abs/2502.08130
+
+【论文解读】PRESELECT：用「预测性数据筛选」法则，以1/10算力炼出更聪明的LLM
+https://zhuanlan.zhihu.com/p/28669643684
