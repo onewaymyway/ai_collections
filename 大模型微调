@@ -296,3 +296,8 @@ https://zhuanlan.zhihu.com/p/29032644114
 Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate
 https://arxiv.org/abs/2501.17703
 https://github.com/TIGER-AI-Lab/CritiqueFineTuning
+
+S3FT选择性自监督微调：通过智能选择训练样本提升大模型整体表现
+https://zhuanlan.zhihu.com/p/29089224557
+Selective Self-to-Supervised Fine-Tuning for Generalization in Large Language Models
+https://arxiv.org/abs/2502.08130
