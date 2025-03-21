@@ -227,3 +227,17 @@ https://zhuanlan.zhihu.com/p/682765467
 
 如何让 RAG 应用添加引用
 https://www.langchain.com.cn/docs/how_to/qa_citations/
+
+Learning to Plan and Generate Text with Citations
+https://arxiv.org/abs/2404.03381
+
+Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents
+https://arxiv.org/abs/2503.04830
+
+MCiteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs
+https://arxiv.org/abs/2503.02589
+
+SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models
+https://arxiv.org/abs/2502.09604
+SelfCite：让大语言模型自我监督生成高质量引文
+https://zhuanlan.zhihu.com/p/23840398607
