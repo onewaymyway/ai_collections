@@ -186,3 +186,6 @@ https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct
 
 https://github.com/modelscope/ms-swift/blob/main/README_CN.md
 https://swift.readthedocs.io/zh-cn/latest/BestPractices/Embedding%E8%AE%AD%E7%BB%83.html#%E6%95%B0%E6%8D%AE%E9%9B%86%E6%A0%BC%E5%BC%8F
+
+19_ElasticSearch 使用match和近似匹配实现召回率与精准度的平衡
+https://blog.csdn.net/qq_27384769/article/details/79662258
